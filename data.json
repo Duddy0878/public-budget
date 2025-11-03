@@ -1,0 +1,4873 @@
+{
+  "acountId": 1111,
+  "weeklyIncomes": [
+    {
+      "name": "Mzwork",
+      "amount": 1100
+    }
+  ],
+  "wallets": [
+    {
+      "name": "gmach",
+      "amount": "9259.40"
+    },
+    {
+      "name": "bank",
+      "amount": "11194.47"
+    },
+    {
+      "name": "envelope",
+      "amount": "2250.00"
+    },
+    {
+      "name": "chaseCC",
+      "amount": "-772.54"
+    },
+    {
+      "name": "amexBlue",
+      "amount": "-974.39"
+    }
+  ],
+  "transactions": [
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 5,
+      "amount": "1250",
+      "date": "2024-12-17",
+      "type": "income",
+      "category": 12,
+      "description": "Mzwork",
+      "transId": 1
+    },
+    {
+      "dateEnterd": "2025-08-08 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2024-12-31",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 2
+    },
+    {
+      "dateEnterd": "2025-08-08 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-01-05",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 3
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "2000",
+      "date": "2025-01-08",
+      "type": "income",
+      "category": 21,
+      "description": "malkah zissy before wedding",
+      "transId": 4
+    },
+    {
+      "dateEnterd": "2025-08-08 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-01-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 5
+    },
+    {
+      "dateEnterd": "2025-08-08 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-01-12",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 6
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-01-17",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 7
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-01-23",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 8
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "2180",
+      "date": "2025-01-23",
+      "type": "income",
+      "category": 7,
+      "description": "After Wedding",
+      "transId": 9
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-01-24",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 10
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-01-31",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 11
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-02-07",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 12
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-02-13",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 13
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "660",
+      "date": "2025-02-13",
+      "type": "income",
+      "category": 7,
+      "description": "After Wedding",
+      "transId": 14
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "417",
+      "date": "2025-02-14",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 15
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-02-21",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 16
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1165.94",
+      "date": "2025-02-27",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 17
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "500",
+      "date": "2025-02-27",
+      "type": "expense",
+      "category": 12,
+      "description": "Matbie",
+      "transId": 18
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-02-28",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 19
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-03-07",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 20
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-03-14",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 21
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "215.24",
+      "date": "2025-03-17",
+      "type": "income",
+      "category": 21,
+      "description": "Acount Transfer",
+      "transId": 22
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "26.12",
+      "date": "2025-03-17",
+      "type": "expense",
+      "category": 7,
+      "description": "Selfie Stick",
+      "transId": 23
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "38.62",
+      "date": "2025-03-17",
+      "type": "expense",
+      "category": 7,
+      "description": "Poem",
+      "transId": 24
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.00",
+      "date": "2025-03-17",
+      "type": "expense",
+      "category": 21,
+      "description": "Checks",
+      "transId": 25
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-03-19",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 26
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-03-20",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 27
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "250",
+      "date": "2025-03-20",
+      "type": "income",
+      "category": 7,
+      "description": "MZ Boss Purim",
+      "transId": 28
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-03-20",
+      "type": "expense",
+      "category": 14,
+      "description": "",
+      "transId": 29
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "250",
+      "date": "2025-03-20",
+      "type": "expense",
+      "category": 17,
+      "description": "",
+      "transId": 30
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "25.00",
+      "date": "2025-03-24",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 31
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "58.00",
+      "date": "2025-03-24",
+      "type": "expense",
+      "category": 11,
+      "description": "Concert With Freinds",
+      "transId": 32
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60.00",
+      "date": "2025-03-24",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 33
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.87",
+      "date": "2025-03-26",
+      "type": "expense",
+      "category": 7,
+      "description": "wedding pics for bobbys",
+      "transId": 34
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-03-27",
+      "type": "income",
+      "category": 15,
+      "description": "After Wedding",
+      "transId": 35
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "21.76",
+      "date": "2025-03-27",
+      "type": "expense",
+      "category": 7,
+      "description": "wedding pic Frames for bobbys",
+      "transId": 36
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-03-28",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 37
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "44.28",
+      "date": "2025-03-28",
+      "type": "expense",
+      "category": 12,
+      "description": "MZ new phone",
+      "transId": 38
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "17.38",
+      "date": "2025-03-28",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 39
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1165.94",
+      "date": "2025-04-03",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 40
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "300",
+      "date": "2025-04-03",
+      "type": "expense",
+      "category": 17,
+      "description": "After Wedding",
+      "transId": 41
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-04-03",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 42
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.98",
+      "date": "2025-04-07",
+      "type": "expense",
+      "category": 10,
+      "description": "foodoo",
+      "transId": 43
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "32.77",
+      "date": "2025-04-07",
+      "type": "expense",
+      "category": 3,
+      "description": "southside",
+      "transId": 44
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.00",
+      "date": "2025-04-07",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 45
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-04-07",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA",
+      "transId": 46
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "8.07",
+      "date": "2025-04-09",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 47
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-04-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 48
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "25.04",
+      "date": "2025-04-10",
+      "type": "expense",
+      "category": 3,
+      "description": "remedies",
+      "transId": 49
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "62.22",
+      "date": "2025-04-10",
+      "type": "expense",
+      "category": 18,
+      "description": "NG",
+      "transId": 50
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "16.54",
+      "date": "2025-04-11",
+      "type": "expense",
+      "category": 12,
+      "description": "closeOut passover",
+      "transId": 51
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "0.25",
+      "date": "2025-04-11",
+      "type": "expense",
+      "category": 2,
+      "description": "meter",
+      "transId": 52
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "244.56",
+      "date": "2025-04-11",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 53
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "97.97",
+      "date": "2025-04-15",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 54
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.87",
+      "date": "2025-04-16",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 55
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.30",
+      "date": "2025-04-21",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 56
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "123.98",
+      "date": "2025-04-22",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 57
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "261.43",
+      "date": "2025-04-22",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 58
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "11.88",
+      "date": "2025-04-23",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 59
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-04-24",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 60
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 14,
+      "description": "",
+      "transId": 61
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "500",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 12,
+      "description": "",
+      "transId": 62
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "500",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 17,
+      "description": "",
+      "transId": 63
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "123.02",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 7,
+      "description": "my sunglasses",
+      "transId": 64
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "16.31",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 7,
+      "description": "toys4you",
+      "transId": 65
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.65",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 12,
+      "description": "",
+      "transId": 66
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "3.00",
+      "date": "2025-04-24",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 67
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "500",
+      "date": "2025-04-25",
+      "type": "income",
+      "category": 21,
+      "description": "",
+      "transId": 68
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.76",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 69
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "3.99",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 70
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "32.00",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 12,
+      "description": "",
+      "transId": 71
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.46",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 72
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "500",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 73
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "47.00",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 74
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "3.37",
+      "date": "2025-04-25",
+      "type": "expense",
+      "category": 4,
+      "description": "",
+      "transId": 75
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-04-28",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 76
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-04-28",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 77
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.16",
+      "date": "2025-04-28",
+      "type": "expense",
+      "category": 3,
+      "description": "southside",
+      "transId": 78
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "62.67",
+      "date": "2025-04-28",
+      "type": "expense",
+      "category": 4,
+      "description": "tradersjoe",
+      "transId": 79
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.49",
+      "date": "2025-04-28",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 80
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "73.23",
+      "date": "2025-04-28",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 81
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.43",
+      "date": "2025-04-28",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 82
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "11.39",
+      "date": "2025-04-28",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 83
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.18",
+      "date": "2025-04-29",
+      "type": "expense",
+      "category": 7,
+      "description": "amazing saving",
+      "transId": 84
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.17",
+      "date": "2025-04-29",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 85
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.85",
+      "date": "2025-04-29",
+      "type": "expense",
+      "category": 7,
+      "description": "my birthday",
+      "transId": 86
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "24.00",
+      "date": "2025-04-30",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 87
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.49",
+      "date": "2025-04-30",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 88
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-05-01",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 89
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-05-01",
+      "type": "income",
+      "category": 15,
+      "description": "",
+      "transId": 90
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-05-01",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 91
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.25",
+      "date": "2025-05-01",
+      "type": "expense",
+      "category": 10,
+      "description": "",
+      "transId": 92
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "41.55",
+      "date": "2025-05-01",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 93
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "35.83",
+      "date": "2025-05-02",
+      "type": "expense",
+      "category": 4,
+      "description": "wegmans",
+      "transId": 94
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "50.00",
+      "date": "2025-05-02",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 95
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "287.88",
+      "date": "2025-05-02",
+      "type": "expense",
+      "category": 19,
+      "description": "gift for mz",
+      "transId": 96
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.30",
+      "date": "2025-05-05",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah",
+      "transId": 97
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60.00",
+      "date": "2025-05-05",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 98
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "100.00",
+      "date": "2025-05-05",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 99
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "27.34",
+      "date": "2025-05-06",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 100
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "71.14",
+      "date": "2025-05-06",
+      "type": "expense",
+      "category": 18,
+      "description": "NG",
+      "transId": 101
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "16.37",
+      "date": "2025-05-08",
+      "type": "expense",
+      "category": 4,
+      "description": "chestnut",
+      "transId": 102
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "29.28",
+      "date": "2025-05-08",
+      "type": "expense",
+      "category": 4,
+      "description": "w fresh",
+      "transId": 103
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "15.00",
+      "date": "2025-05-08",
+      "type": "expense",
+      "category": 12,
+      "description": "oorah",
+      "transId": 104
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.50",
+      "date": "2025-05-08",
+      "type": "expense",
+      "category": 10,
+      "description": "sips and salt",
+      "transId": 105
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "113.31",
+      "date": "2025-05-08",
+      "type": "expense",
+      "category": 18,
+      "description": "CE",
+      "transId": 106
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.37",
+      "date": "2025-05-08",
+      "type": "expense",
+      "category": 10,
+      "description": "familiy dollar",
+      "transId": 107
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-05-09",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA",
+      "transId": 108
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-05-12",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 109
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-05-12",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 110
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.48",
+      "date": "2025-05-12",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 111
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.50",
+      "date": "2025-05-12",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 112
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "9.00",
+      "date": "2025-05-12",
+      "type": "expense",
+      "category": 11,
+      "description": "ferry",
+      "transId": 113
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60.00",
+      "date": "2025-05-13",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 114
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.49",
+      "date": "2025-05-14",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 115
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.89",
+      "date": "2025-05-19",
+      "type": "expense",
+      "category": 7,
+      "description": "",
+      "transId": 116
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.53",
+      "date": "2025-05-19",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 117
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.07",
+      "date": "2025-05-19",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 118
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "22.80",
+      "date": "2025-05-19",
+      "type": "expense",
+      "category": 3,
+      "description": "southside",
+      "transId": 119
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.21",
+      "date": "2025-05-21",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 120
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "22.26",
+      "date": "2025-05-21",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 121
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "11.62",
+      "date": "2025-05-21",
+      "type": "expense",
+      "category": 7,
+      "description": "zell to shmiliy",
+      "transId": 122
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-05-22",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 123
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "126",
+      "date": "2025-05-22",
+      "type": "income",
+      "category": 21,
+      "description": "After Wedding",
+      "transId": 124
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-05-22",
+      "type": "expense",
+      "category": 14,
+      "description": "After Wedding",
+      "transId": 125
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-05-22",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 126
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.11",
+      "date": "2025-05-22",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 127
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.03",
+      "date": "2025-05-22",
+      "type": "expense",
+      "category": 10,
+      "description": "rosmary",
+      "transId": 128
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20.00",
+      "date": "2025-05-23",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 129
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.53",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 130
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "91.97",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 7,
+      "description": "sforim case",
+      "transId": 131
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "32.00",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 132
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "100",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 133
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.35",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 10,
+      "description": "",
+      "transId": 134
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "15.50",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 12,
+      "description": "stamps",
+      "transId": 135
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.00",
+      "date": "2025-05-27",
+      "type": "expense",
+      "category": 6,
+      "description": "",
+      "transId": 136
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.11",
+      "date": "2025-05-28",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 137
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.52",
+      "date": "2025-05-29",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 138
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60.00",
+      "date": "2025-05-29",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 139
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20.56",
+      "date": "2025-05-29",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 140
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "32.64",
+      "date": "2025-05-29",
+      "type": "expense",
+      "category": 7,
+      "description": "flowers for mommy",
+      "transId": 141
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "1.07",
+      "date": "2025-05-29",
+      "type": "expense",
+      "category": 7,
+      "description": "",
+      "transId": 142
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "62.00",
+      "date": "2025-05-30",
+      "type": "expense",
+      "category": 13,
+      "description": "right contact",
+      "transId": 143
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20.00",
+      "date": "2025-05-30",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 144
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "8.37",
+      "date": "2025-06-02",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 145
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "0.06",
+      "date": "2025-06-02",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 146
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "0.28",
+      "date": "2025-06-02",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 147
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.75",
+      "date": "2025-06-02",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 148
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "32.76",
+      "date": "2025-06-02",
+      "type": "expense",
+      "category": 1,
+      "description": "",
+      "transId": 149
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-06-04",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 150
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-06-05",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 151
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-06-05",
+      "type": "income",
+      "category": 15,
+      "description": "After Wedding",
+      "transId": 152
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "18.19",
+      "date": "2025-06-05",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 153
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.35",
+      "date": "2025-06-06",
+      "type": "expense",
+      "category": 10,
+      "description": "",
+      "transId": 154
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "1.60",
+      "date": "2025-06-06",
+      "type": "expense",
+      "category": 10,
+      "description": "",
+      "transId": 155
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "14.99",
+      "date": "2025-06-06",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 156
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-06-06",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 157
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "23.11",
+      "date": "2025-06-09",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 158
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "80.99",
+      "date": "2025-06-09",
+      "type": "expense",
+      "category": 18,
+      "description": "NG",
+      "transId": 159
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-06-09",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 160
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-06-09",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA",
+      "transId": 161
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-06-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 162
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-06-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 163
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20.74",
+      "date": "2025-06-10",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 164
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1165.94",
+      "date": "2025-06-11",
+      "type": "income",
+      "category": 12,
+      "description": "After Wedding",
+      "transId": 165
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.19",
+      "date": "2025-06-11",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 166
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "9.28",
+      "date": "2025-06-12",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 167
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.18",
+      "date": "2025-06-12",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 168
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "43.11",
+      "date": "2025-06-12",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 169
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "23.00",
+      "date": "2025-06-12",
+      "type": "expense",
+      "category": 7,
+      "description": "",
+      "transId": 170
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.60",
+      "date": "2025-06-12",
+      "type": "expense",
+      "category": 7,
+      "description": "",
+      "transId": 171
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "8.16",
+      "date": "2025-06-13",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 172
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "16.34",
+      "date": "2025-06-13",
+      "type": "expense",
+      "category": 12,
+      "description": "car holder",
+      "transId": 173
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "37.25",
+      "date": "2025-06-13",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 174
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.52",
+      "date": "2025-06-13",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 175
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-06-13",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 176
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.93",
+      "date": "2025-06-16",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 177
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.93",
+      "date": "2025-06-16",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 178
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "17.84",
+      "date": "2025-06-16",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 179
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "19.80",
+      "date": "2025-06-16",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 180
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.50",
+      "date": "2025-06-16",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 181
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "21.46",
+      "date": "2025-06-16",
+      "type": "expense",
+      "category": 4,
+      "description": "tradersjoe",
+      "transId": 182
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-06-17",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 183
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "37.49",
+      "date": "2025-06-17",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 184
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.52",
+      "date": "2025-06-18",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 185
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "8.70",
+      "date": "2025-06-18",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 186
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.09",
+      "date": "2025-06-20",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 187
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "29.04",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 188
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "34.50",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 189
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "17.89",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 190
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 191
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "15.81",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 192
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "14.18",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 3,
+      "description": "pregnetcy test",
+      "transId": 193
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "13.03",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 194
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "35.42",
+      "date": "2025-06-23",
+      "type": "expense",
+      "category": 3,
+      "description": "pregnetcy test",
+      "transId": 195
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-06-24",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 196
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "39.31",
+      "date": "2025-06-24",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 197
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "3",
+      "date": "2025-06-24",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 198
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.97",
+      "date": "2025-06-24",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 199
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.53",
+      "date": "2025-06-24",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 200
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-06-25",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 201
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-06-25",
+      "type": "expense",
+      "category": 14,
+      "description": "",
+      "transId": 202
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "500",
+      "date": "2025-06-25",
+      "type": "expense",
+      "category": 12,
+      "description": "",
+      "transId": 203
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "11.96",
+      "date": "2025-06-25",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 204
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "9",
+      "date": "2025-06-26",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 205
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2",
+      "date": "2025-06-26",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 206
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.70",
+      "date": "2025-06-27",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 207
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "8.37",
+      "date": "2025-06-27",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 208
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "19.44",
+      "date": "2025-06-27",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 209
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-06-27",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 210
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "27.14",
+      "date": "2025-06-27",
+      "type": "expense",
+      "category": 4,
+      "description": "walmart",
+      "transId": 211
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.87",
+      "date": "2025-06-27",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 212
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "19.45",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut",
+      "transId": 213
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "19.71",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 214
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "14.35",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 215
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.30",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 216
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 217
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "3.30",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 218
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.39",
+      "date": "2025-06-30",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 219
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.64",
+      "date": "2025-07-01",
+      "type": "expense",
+      "category": 11,
+      "description": "",
+      "transId": 220
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "19.78",
+      "date": "2025-07-01",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 221
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "100",
+      "date": "2025-07-02",
+      "type": "income",
+      "category": 21,
+      "description": "advertidment",
+      "transId": 222
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "9.78",
+      "date": "2025-07-02",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 223
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20.29",
+      "date": "2025-07-03",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 224
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "21.23",
+      "date": "2025-07-07",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 225
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "6.52",
+      "date": "2025-07-07",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 226
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-07-07",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 227
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.98",
+      "date": "2025-07-07",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 228
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-07-09",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 229
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-07-09",
+      "type": "income",
+      "category": 15,
+      "description": "",
+      "transId": 230
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "75",
+      "date": "2025-07-09",
+      "type": "income",
+      "category": 7,
+      "description": "Droshe Geshank",
+      "transId": 231
+    },
+    {
+      "dateEnterd": "2025-07-16 00:00:00",
+      "wallet": 3,
+      "amount": "300",
+      "date": "2025-07-09",
+      "type": "expense",
+      "category": 17,
+      "description": "",
+      "transId": 232
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-07-09",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA",
+      "transId": 233
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "59.17",
+      "date": "2025-07-09",
+      "type": "expense",
+      "category": 18,
+      "description": "NG",
+      "transId": 234
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "35.19",
+      "date": "2025-07-09",
+      "type": "expense",
+      "category": 4,
+      "description": "rosmary",
+      "transId": 235
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-07-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 236
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-07-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 237
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "517",
+      "date": "2025-07-10",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 238
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.28",
+      "date": "2025-07-10",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 239
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "17.15",
+      "date": "2025-07-10",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 240
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.28",
+      "date": "2025-07-10",
+      "type": "expense",
+      "category": 21,
+      "description": "",
+      "transId": 241
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.88",
+      "date": "2025-07-10",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 242
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "208.95",
+      "date": "2025-07-10",
+      "type": "expense",
+      "category": 19,
+      "description": "",
+      "transId": 243
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "7.52",
+      "date": "2025-07-11",
+      "type": "expense",
+      "category": 4,
+      "description": "southside",
+      "transId": 244
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "30.48",
+      "date": "2025-07-11",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 245
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-07-11",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 246
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "4.52",
+      "date": "2025-07-14",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh",
+      "transId": 247
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "5.30",
+      "date": "2025-07-14",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 248
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "3.30",
+      "date": "2025-07-14",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva",
+      "transId": 249
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "51.59",
+      "date": "2025-07-14",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 250
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-07-15",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 251
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "11.96",
+      "date": "2025-07-15",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 252
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "18.61",
+      "date": "2025-07-16",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 253
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "26.03",
+      "date": "2025-07-16",
+      "type": "expense",
+      "category": 4,
+      "description": "tradersjoe",
+      "transId": 254
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "10.88",
+      "date": "2025-07-16",
+      "type": "expense",
+      "category": 1,
+      "description": "?",
+      "transId": 255
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "12.21",
+      "date": "2025-07-16",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 256
+    },
+    {
+      "dateEnterd": "2025-07-17 00:00:00",
+      "wallet": 2,
+      "amount": "48.99",
+      "date": "2025-07-17",
+      "type": "expense",
+      "category": 7,
+      "description": "Mz freind",
+      "transId": 257
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-07-18",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 258
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "5.30",
+      "date": "2025-07-18",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah",
+      "transId": 259
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "5.99",
+      "date": "2025-07-20",
+      "type": "expense",
+      "category": 4,
+      "description": "aisle 9 lkwd",
+      "transId": 260
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "9.56",
+      "date": "2025-07-20",
+      "type": "expense",
+      "category": 4,
+      "description": "super stop",
+      "transId": 261
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "3.30",
+      "date": "2025-07-20",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah",
+      "transId": 262
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "6.33",
+      "date": "2025-07-20",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocho",
+      "transId": 263
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "7.62",
+      "date": "2025-07-20",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 264
+    },
+    {
+      "dateEnterd": "2025-07-21 00:00:00",
+      "wallet": 2,
+      "amount": "4.11",
+      "date": "2025-07-21",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocho",
+      "transId": 265
+    },
+    {
+      "dateEnterd": "2025-07-21 00:00:00",
+      "wallet": 2,
+      "amount": "5.01",
+      "date": "2025-07-21",
+      "type": "expense",
+      "category": 11,
+      "description": "sprinkles",
+      "transId": 266
+    },
+    {
+      "dateEnterd": "2025-07-23 00:00:00",
+      "wallet": 2,
+      "amount": "1134",
+      "date": "2025-07-23",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 267
+    },
+    {
+      "dateEnterd": "2025-07-23 00:00:00",
+      "wallet": 3,
+      "amount": "1165.94",
+      "date": "2025-07-23",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 268
+    },
+    {
+      "dateEnterd": "2025-07-23 00:00:00",
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-07-23",
+      "type": "expense",
+      "category": 14,
+      "description": "",
+      "transId": 269
+    },
+    {
+      "dateEnterd": "2025-07-20 00:00:00",
+      "wallet": 2,
+      "amount": "13.81",
+      "date": "2025-07-24",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 270
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-07-24",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 271
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "24.74",
+      "date": "2025-07-24",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 272
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "18.53",
+      "date": "2025-07-25",
+      "type": "expense",
+      "category": 10,
+      "description": "Black and white",
+      "transId": 273
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "18.63",
+      "date": "2025-07-27",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 274
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "12.66",
+      "date": "2025-07-27",
+      "type": "expense",
+      "category": 4,
+      "description": "wallmart",
+      "transId": 275
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "100",
+      "date": "2025-07-27",
+      "type": "expense",
+      "category": 8,
+      "description": "fidelity",
+      "transId": 276
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "41.94",
+      "date": "2025-07-28",
+      "type": "expense",
+      "category": 4,
+      "description": "central",
+      "transId": 277
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-07-28",
+      "type": "income",
+      "category": 15,
+      "description": "shever",
+      "transId": 278
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-07-28",
+      "type": "expense",
+      "category": 15,
+      "description": "shever",
+      "transId": 279
+    },
+    {
+      "dateEnterd": "2025-07-29 00:00:00",
+      "wallet": 2,
+      "amount": "8.68",
+      "date": "2025-07-29",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 280
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "6.53",
+      "date": "2025-07-31",
+      "type": "expense",
+      "category": 10,
+      "description": "Black and white",
+      "transId": 281
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-07-31",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 282
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "0.01",
+      "date": "2025-07-31",
+      "type": "expense",
+      "category": 16,
+      "description": "cloud",
+      "transId": 283
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "25.82",
+      "date": "2025-07-31",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 284
+    },
+    {
+      "dateEnterd": "2025-08-13 00:00:00",
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-07-31",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 285
+    },
+    {
+      "dateEnterd": "2025-08-13 00:00:00",
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-07-31",
+      "type": "income",
+      "category": 15,
+      "description": "",
+      "transId": 286
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "5",
+      "date": "2025-08-01",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 287
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "12",
+      "date": "2025-08-01",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah",
+      "transId": 288
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "87.73",
+      "date": "2025-08-01",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket",
+      "transId": 289
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 4,
+      "amount": "217.63",
+      "date": "2025-08-01",
+      "type": "expense",
+      "category": 18,
+      "description": "con edison",
+      "transId": 290
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-08-01",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 291
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 4,
+      "amount": "117.30",
+      "date": "2025-08-03",
+      "type": "expense",
+      "category": 2,
+      "description": "Ticket",
+      "transId": 292
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "2.35",
+      "date": "2025-08-04",
+      "type": "expense",
+      "category": 10,
+      "description": "",
+      "transId": 293
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "10.14",
+      "date": "2025-08-04",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 294
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "22.29",
+      "date": "2025-08-06",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 295
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "8.86",
+      "date": "2025-08-07",
+      "type": "expense",
+      "category": 10,
+      "description": "geshmak",
+      "transId": 296
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "6.12",
+      "date": "2025-08-07",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 297
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 2,
+      "amount": "400",
+      "date": "2025-08-07",
+      "type": "expense",
+      "category": 19,
+      "description": "chaseCC",
+      "transId": 298
+    },
+    {
+      "dateEnterd": "2025-08-07 00:00:00",
+      "wallet": 4,
+      "amount": "400",
+      "date": "2025-08-07",
+      "type": "income",
+      "category": 19,
+      "description": "bank",
+      "transId": 299
+    },
+    {
+      "dateEnterd": "2025-08-08 00:00:00",
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-08-07",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood",
+      "transId": 300
+    },
+    {
+      "dateEnterd": "2025-08-10 00:00:00",
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-08-07",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA",
+      "transId": 301
+    },
+    {
+      "dateEnterd": "2025-08-10 00:00:00",
+      "wallet": 2,
+      "amount": "54.23",
+      "date": "2025-08-07",
+      "type": "expense",
+      "category": 18,
+      "description": "NG",
+      "transId": 302
+    },
+    {
+      "dateEnterd": "2025-08-12 00:00:00",
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-08-07",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 303
+    },
+    {
+      "dateEnterd": "2025-08-13 00:00:00",
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-08-07",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 304
+    },
+    {
+      "dateEnterd": "2025-08-10 00:00:00",
+      "wallet": 2,
+      "amount": "5.30",
+      "date": "2025-08-08",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah",
+      "transId": 305
+    },
+    {
+      "dateEnterd": "2025-08-10 00:00:00",
+      "wallet": 2,
+      "amount": "3.30",
+      "date": "2025-08-10",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah",
+      "transId": 306
+    },
+    {
+      "dateEnterd": "2025-08-10 00:00:00",
+      "wallet": 2,
+      "amount": "8",
+      "date": "2025-08-10",
+      "type": "expense",
+      "category": 2,
+      "description": "charging",
+      "transId": 307
+    },
+    {
+      "dateEnterd": "2025-08-10 00:00:00",
+      "wallet": 2,
+      "amount": "19.97",
+      "date": "2025-08-10",
+      "type": "expense",
+      "category": 17,
+      "description": "",
+      "transId": 308
+    },
+    {
+      "dateEnterd": "2025-08-12 00:00:00",
+      "wallet": 2,
+      "amount": "3.25",
+      "date": "2025-08-12",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house",
+      "transId": 309
+    },
+    {
+      "dateEnterd": "2025-08-12 00:00:00",
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-08-12",
+      "type": "expense",
+      "category": 5,
+      "description": "",
+      "transId": 310
+    },
+    {
+      "dateEnterd": "2025-08-13 00:00:00",
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-08-13",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 311
+    },
+    {
+      "dateEnterd": "2025-08-13 00:00:00",
+      "wallet": 3,
+      "amount": "0.13",
+      "date": "2025-08-13",
+      "type": "expense",
+      "category": 20,
+      "description": "",
+      "transId": 312
+    },
+    {
+      "dateEnterd": "2025-08-17 00:00:00",
+      "transId": 313,
+      "wallet": 2,
+      "amount": "7.72",
+      "date": "2025-08-13",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-08-12 00:00:00",
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-08-14",
+      "type": "income",
+      "category": 12,
+      "description": "",
+      "transId": 314
+    },
+    {
+      "dateEnterd": "2025-08-17 00:00:00",
+      "transId": 315,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-08-14",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-08-17 00:00:00",
+      "transId": 316,
+      "wallet": 2,
+      "amount": "9.58",
+      "date": "2025-08-14",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut"
+    },
+    {
+      "dateEnterd": "2025-08-18 00:00:00",
+      "transId": 317,
+      "wallet": 2,
+      "amount": "26.64",
+      "date": "2025-08-14",
+      "type": "expense",
+      "category": 2,
+      "description": "charging"
+    },
+    {
+      "dateEnterd": "2025-08-17 00:00:00",
+      "transId": 318,
+      "wallet": 2,
+      "amount": "22.75",
+      "date": "2025-08-17",
+      "type": "expense",
+      "category": 2,
+      "description": "charging"
+    },
+    {
+      "dateEnterd": "2025-08-17 00:00:00",
+      "transId": 319,
+      "wallet": 2,
+      "amount": "3",
+      "date": "2025-08-17",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 320,
+      "wallet": 2,
+      "amount": "5.52",
+      "date": "2025-08-18",
+      "type": "expense",
+      "category": 2,
+      "description": "charging"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 321,
+      "wallet": 2,
+      "amount": "10.72",
+      "date": "2025-08-19",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 322,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-08-20",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 323,
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-08-20",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 324,
+      "wallet": 2,
+      "amount": "31",
+      "date": "2025-08-20",
+      "type": "expense",
+      "category": 13,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 325,
+      "wallet": 2,
+      "amount": "2.49",
+      "date": "2025-08-20",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 326,
+      "wallet": 2,
+      "amount": "2.92",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 2,
+      "description": "charging"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 327,
+      "wallet": 2,
+      "amount": "14.48",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 2,
+      "description": "charging"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 328,
+      "wallet": 2,
+      "amount": "5.44",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 10,
+      "description": "geshmak"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 329,
+      "wallet": 2,
+      "amount": "3.27",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 10,
+      "description": "geshmak"
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 330,
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 5,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 331,
+      "wallet": 3,
+      "amount": "0.27",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 20,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-21 00:00:00",
+      "transId": 332,
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 14,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 333,
+      "wallet": 2,
+      "amount": "7.61",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 334,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 335,
+      "wallet": 2,
+      "amount": "22.37",
+      "date": "2025-08-21",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 336,
+      "wallet": 2,
+      "amount": "17",
+      "date": "2025-08-22",
+      "type": "expense",
+      "category": 11,
+      "description": "boating"
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 337,
+      "wallet": 2,
+      "amount": "2.20",
+      "date": "2025-08-22",
+      "type": "expense",
+      "category": 11,
+      "description": "vending mc"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 338,
+      "wallet": 2,
+      "amount": "34.12",
+      "date": "2025-08-24",
+      "type": "expense",
+      "category": 11,
+      "description": "milk crate lkwd"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 339,
+      "wallet": 2,
+      "amount": "3.30",
+      "date": "2025-08-24",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 340,
+      "wallet": 4,
+      "amount": "32.98",
+      "date": "2025-08-25",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-08-25 00:00:00",
+      "transId": 341,
+      "wallet": 4,
+      "amount": "53.01",
+      "date": "2025-08-25",
+      "type": "expense",
+      "category": 4,
+      "description": "traders joe"
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 342,
+      "wallet": 4,
+      "amount": "1",
+      "date": "2025-08-25",
+      "type": "expense",
+      "category": 9,
+      "description": "charity "
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 343,
+      "wallet": 2,
+      "amount": "19.38",
+      "date": "2025-08-26",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 344,
+      "wallet": 2,
+      "amount": "8.87",
+      "date": "2025-08-26",
+      "type": "expense",
+      "category": 2,
+      "description": "charging"
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 345,
+      "wallet": 4,
+      "amount": "46",
+      "date": "2025-08-27",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah"
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 346,
+      "wallet": 4,
+      "amount": "7.84",
+      "date": "2025-08-27",
+      "type": "expense",
+      "category": 10,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 347,
+      "wallet": 2,
+      "amount": "4.48",
+      "date": "2025-08-28",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-08-28 00:00:00",
+      "transId": 348,
+      "wallet": 2,
+      "amount": "2.49",
+      "date": "2025-08-28",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-09-01 00:00:00",
+      "transId": 349,
+      "wallet": 4,
+      "amount": "10.77",
+      "date": "2025-08-28",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-02 00:00:00",
+      "transId": 350,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-08-29",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-09-02 00:00:00",
+      "transId": 351,
+      "wallet": 2,
+      "amount": "8.32",
+      "date": "2025-08-31",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-02 00:00:00",
+      "transId": 352,
+      "wallet": 2,
+      "amount": "48.32",
+      "date": "2025-08-31",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-02 00:00:00",
+      "transId": 353,
+      "wallet": 2,
+      "amount": "24.68",
+      "date": "2025-09-01",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-09-02 00:00:00",
+      "transId": 354,
+      "wallet": 2,
+      "amount": "8.99",
+      "date": "2025-09-01",
+      "type": "expense",
+      "category": 10,
+      "description": "mezrella"
+    },
+    {
+      "dateEnterd": "2025-09-02 00:00:00",
+      "transId": 355,
+      "wallet": 2,
+      "amount": "1.99",
+      "date": "2025-09-02",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 356,
+      "wallet": 4,
+      "amount": "43.50",
+      "date": "2025-09-03",
+      "type": "expense",
+      "category": 4,
+      "description": "traders joes"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 357,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-09-04",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 358,
+      "wallet": 2,
+      "amount": "2.69",
+      "date": "2025-09-04",
+      "type": "expense",
+      "category": 4,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 359,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-09-04",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 360,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-09-04",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 361,
+      "wallet": 4,
+      "amount": "31.83",
+      "date": "2025-09-04",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 362,
+      "wallet": 2,
+      "amount": "21.59",
+      "date": "2025-09-04",
+      "type": "expense",
+      "category": 4,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 363,
+      "wallet": 2,
+      "amount": "10",
+      "date": "2025-09-05",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 364,
+      "wallet": 2,
+      "amount": "18.06",
+      "date": "2025-09-05",
+      "type": "expense",
+      "category": 21,
+      "description": "flowers "
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 365,
+      "wallet": 2,
+      "amount": "6.49",
+      "date": "2025-09-05",
+      "type": "expense",
+      "category": 10,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 366,
+      "wallet": 2,
+      "amount": "4.99",
+      "date": "2025-09-05",
+      "type": "expense",
+      "category": 10,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 367,
+      "wallet": 2,
+      "amount": "2.40",
+      "date": "2025-09-05",
+      "type": "expense",
+      "category": 21,
+      "description": "lottery"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 368,
+      "wallet": 2,
+      "amount": "13.60",
+      "date": "2025-09-05",
+      "type": "income",
+      "category": 21,
+      "description": "quick Pay "
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 369,
+      "wallet": 2,
+      "amount": "13.60",
+      "date": "2025-09-05",
+      "type": "income",
+      "category": 21,
+      "description": "quick pay"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 370,
+      "wallet": 4,
+      "amount": "183.44",
+      "date": "2025-09-05",
+      "type": "expense",
+      "category": 18,
+      "description": "con edison"
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 371,
+      "wallet": 2,
+      "amount": "19.98",
+      "date": "2025-09-07",
+      "type": "expense",
+      "category": 1,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 372,
+      "wallet": 2,
+      "amount": "345.30",
+      "date": "2025-09-07",
+      "type": "expense",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 373,
+      "wallet": 4,
+      "amount": "345.30",
+      "date": "2025-09-07",
+      "type": "income",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-07 00:00:00",
+      "transId": 374,
+      "wallet": 2,
+      "amount": "54.43",
+      "date": "2025-09-07",
+      "type": "expense",
+      "category": 1,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 375,
+      "wallet": 4,
+      "amount": "43.95",
+      "date": "2025-09-08",
+      "type": "expense",
+      "category": 4,
+      "description": "central "
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 376,
+      "wallet": 4,
+      "amount": "5.20",
+      "date": "2025-09-09",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 377,
+      "wallet": 2,
+      "amount": "8.16",
+      "date": "2025-09-09",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 378,
+      "wallet": 2,
+      "amount": "5.87",
+      "date": "2025-09-09",
+      "type": "expense",
+      "category": 4,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 379,
+      "wallet": 2,
+      "amount": "1.99",
+      "date": "2025-09-09",
+      "type": "expense",
+      "category": 4,
+      "description": "hatzlocoh"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 380,
+      "wallet": 4,
+      "amount": "265",
+      "date": "2025-09-10",
+      "type": "expense",
+      "category": 21,
+      "description": "food stamps"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 381,
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-09-10",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA"
+    },
+    {
+      "dateEnterd": "2025-09-10 00:00:00",
+      "transId": 382,
+      "wallet": 2,
+      "amount": "33.69",
+      "date": "2025-09-10",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-11 00:00:00",
+      "transId": 383,
+      "wallet": 2,
+      "amount": "11.89",
+      "date": "2025-09-10",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut"
+    },
+    {
+      "dateEnterd": "2025-09-11 00:00:00",
+      "transId": 384,
+      "wallet": 2,
+      "amount": "58.24",
+      "date": "2025-09-10",
+      "type": "expense",
+      "category": 18,
+      "description": "NG"
+    },
+    {
+      "dateEnterd": "2025-09-11 00:00:00",
+      "transId": 385,
+      "wallet": 4,
+      "amount": "14.50",
+      "date": "2025-09-10",
+      "type": "expense",
+      "category": 7,
+      "description": "razzele"
+    },
+    {
+      "dateEnterd": "2025-09-11 00:00:00",
+      "transId": 386,
+      "wallet": 2,
+      "amount": "330",
+      "date": "2025-09-11",
+      "type": "expense",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-11 00:00:00",
+      "transId": 387,
+      "wallet": 4,
+      "amount": "330",
+      "date": "2025-09-11",
+      "type": "income",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-14 00:00:00",
+      "transId": 388,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-09-11",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-14 00:00:00",
+      "transId": 389,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-09-11",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 411,
+      "wallet": 3,
+      "amount": "1748.91",
+      "date": "2025-09-11",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 412,
+      "wallet": 3,
+      "amount": "500",
+      "date": "2025-09-11",
+      "type": "expense",
+      "category": 21,
+      "description": "maaser"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 399,
+      "wallet": 4,
+      "amount": "35",
+      "date": "2025-09-12",
+      "type": "expense",
+      "category": 6,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-14 00:00:00",
+      "transId": 390,
+      "wallet": 2,
+      "amount": "60",
+      "date": "2025-09-14",
+      "type": "expense",
+      "category": 5,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 391,
+      "wallet": 2,
+      "amount": "97.98",
+      "date": "2025-09-15",
+      "type": "expense",
+      "category": 21,
+      "description": "mz pirculater"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 392,
+      "wallet": 2,
+      "amount": "10.88",
+      "date": "2025-09-15",
+      "type": "income",
+      "category": 21,
+      "description": "mz pirculater"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 393,
+      "wallet": 2,
+      "amount": "19.60",
+      "date": "2025-09-15",
+      "type": "expense",
+      "category": 7,
+      "description": "shever moving"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 395,
+      "wallet": 2,
+      "amount": "10.88",
+      "date": "2025-09-15",
+      "type": "income",
+      "category": 21,
+      "description": "mz pirculater"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 400,
+      "wallet": 4,
+      "amount": "3.58",
+      "date": "2025-09-15",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 394,
+      "wallet": 2,
+      "amount": "13.67",
+      "date": "2025-09-16",
+      "type": "expense",
+      "category": 10,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 396,
+      "wallet": 2,
+      "amount": "36.49",
+      "date": "2025-09-16",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 397,
+      "wallet": 2,
+      "amount": "14.36",
+      "date": "2025-09-17",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 401,
+      "wallet": 4,
+      "amount": "15.58",
+      "date": "2025-09-17",
+      "type": "expense",
+      "category": 10,
+      "description": "uber eats"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 398,
+      "wallet": 2,
+      "amount": "4.12",
+      "date": "2025-09-18",
+      "type": "expense",
+      "category": 10,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 402,
+      "wallet": 2,
+      "amount": "52.81",
+      "date": "2025-09-18",
+      "type": "expense",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-18 00:00:00",
+      "transId": 403,
+      "wallet": 4,
+      "amount": "52.81",
+      "date": "2025-09-18",
+      "type": "income",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 407,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-09-18",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 413,
+      "wallet": 3,
+      "amount": "300",
+      "date": "2025-09-18",
+      "type": "expense",
+      "category": 17,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 414,
+      "wallet": 3,
+      "amount": "3100",
+      "date": "2025-09-18",
+      "type": "expense",
+      "category": 14,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 458,
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-09-18",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 405,
+      "wallet": 4,
+      "amount": "14.99",
+      "date": "2025-09-19",
+      "type": "expense",
+      "category": 21,
+      "description": "flowers "
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 406,
+      "wallet": 4,
+      "amount": "25.94",
+      "date": "2025-09-19",
+      "type": "expense",
+      "category": 4,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 404,
+      "wallet": 4,
+      "amount": "24.21",
+      "date": "2025-09-21",
+      "type": "expense",
+      "category": 3,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 408,
+      "wallet": 2,
+      "amount": "17.35",
+      "date": "2025-09-21",
+      "type": "expense",
+      "category": 4,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 409,
+      "wallet": 2,
+      "amount": "18.60",
+      "date": "2025-09-21",
+      "type": "expense",
+      "category": 21,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-22 00:00:00",
+      "transId": 410,
+      "wallet": 2,
+      "amount": "28.29",
+      "date": "2025-09-21",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 418,
+      "wallet": 2,
+      "amount": "22.17",
+      "date": "2025-09-22",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 415,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-09-25",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 416,
+      "wallet": 2,
+      "amount": "65.14",
+      "date": "2025-09-25",
+      "type": "expense",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-25 00:00:00",
+      "transId": 417,
+      "wallet": 4,
+      "amount": "65.14",
+      "date": "2025-09-25",
+      "type": "income",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 425,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-09-25",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 426,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-09-25",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 427,
+      "wallet": 2,
+      "amount": "12",
+      "date": "2025-09-25",
+      "type": "expense",
+      "category": 21,
+      "description": "kapuros"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 457,
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-09-25",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 419,
+      "wallet": 4,
+      "amount": "46.92",
+      "date": "2025-09-28",
+      "type": "expense",
+      "category": 4,
+      "description": "traders joes"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 428,
+      "wallet": 2,
+      "amount": "34.49",
+      "date": "2025-09-28",
+      "type": "expense",
+      "category": 4,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 429,
+      "wallet": 2,
+      "amount": "39.40",
+      "date": "2025-09-28",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 420,
+      "wallet": 4,
+      "amount": "248",
+      "date": "2025-09-29",
+      "type": "expense",
+      "category": 13,
+      "description": "full year"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 422,
+      "wallet": 4,
+      "amount": "24.99",
+      "date": "2025-09-29",
+      "type": "expense",
+      "category": 7,
+      "description": "little vase for display"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 423,
+      "wallet": 4,
+      "amount": "32.62",
+      "date": "2025-09-29",
+      "type": "expense",
+      "category": 7,
+      "description": "shuterfly"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 430,
+      "wallet": 2,
+      "amount": "23.34",
+      "date": "2025-09-29",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 421,
+      "wallet": 4,
+      "amount": "275",
+      "date": "2025-09-30",
+      "type": "expense",
+      "category": 21,
+      "description": "Lulav etrog"
+    },
+    {
+      "dateEnterd": "2025-09-30 00:00:00",
+      "transId": 424,
+      "wallet": 4,
+      "amount": "108",
+      "date": "2025-09-30",
+      "type": "expense",
+      "category": 12,
+      "description": "Mz freind"
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 431,
+      "wallet": 2,
+      "amount": "34.24",
+      "date": "2025-09-30",
+      "type": "expense",
+      "category": 17,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 432,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-10-02",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 436,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-10-02",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 456,
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-10-02",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 433,
+      "wallet": 2,
+      "amount": "13.11",
+      "date": "2025-10-03",
+      "type": "expense",
+      "category": 4,
+      "description": "central "
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 434,
+      "wallet": 2,
+      "amount": "22.86",
+      "date": "2025-10-03",
+      "type": "expense",
+      "category": 3,
+      "description": "makeup "
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 435,
+      "wallet": 2,
+      "amount": "735.53",
+      "date": "2025-10-03",
+      "type": "expense",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 437,
+      "wallet": 4,
+      "amount": "735.53",
+      "date": "2025-10-03",
+      "type": "income",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 438,
+      "wallet": 4,
+      "amount": "196.91",
+      "date": "2025-10-03",
+      "type": "expense",
+      "category": 18,
+      "description": "con edison"
+    },
+    {
+      "dateEnterd": "2025-10-03 00:00:00",
+      "transId": 439,
+      "wallet": 2,
+      "amount": "54.93",
+      "date": "2025-10-03",
+      "type": "expense",
+      "category": 18,
+      "description": "NG"
+    },
+    {
+      "dateEnterd": "2025-10-05 00:00:00",
+      "transId": 440,
+      "wallet": 2,
+      "amount": "50",
+      "date": "2025-10-05",
+      "type": "expense",
+      "category": 21,
+      "description": "liluv"
+    },
+    {
+      "dateEnterd": "2025-10-05 00:00:00",
+      "transId": 441,
+      "wallet": 2,
+      "amount": "196.91",
+      "date": "2025-10-05",
+      "type": "expense",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-05 00:00:00",
+      "transId": 442,
+      "wallet": 4,
+      "amount": "196.91",
+      "date": "2025-10-05",
+      "type": "income",
+      "category": 19,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 443,
+      "wallet": 2,
+      "amount": "2.50",
+      "date": "2025-10-09",
+      "type": "expense",
+      "category": 2,
+      "description": "AAA"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 445,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-10-09",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 455,
+      "wallet": 3,
+      "amount": "582.97",
+      "date": "2025-10-09",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 444,
+      "wallet": 2,
+      "amount": "4.74",
+      "date": "2025-10-10",
+      "type": "expense",
+      "category": 3,
+      "description": "makeup "
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 452,
+      "wallet": 2,
+      "amount": "617",
+      "date": "2025-10-10",
+      "type": "income",
+      "category": 12,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 454,
+      "wallet": 3,
+      "amount": "1000",
+      "date": "2025-10-10",
+      "type": "income",
+      "category": 15,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 446,
+      "wallet": 2,
+      "amount": "7.30",
+      "date": "2025-10-14",
+      "type": "expense",
+      "category": 9,
+      "description": "mikva"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 447,
+      "wallet": 2,
+      "amount": "164.88",
+      "date": "2025-10-15",
+      "type": "expense",
+      "category": 21,
+      "description": "Uber"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 448,
+      "wallet": 2,
+      "amount": "2.79",
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": 10,
+      "description": "southside"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 449,
+      "wallet": 2,
+      "amount": "5.17",
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": 10,
+      "description": "hot bagels"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 450,
+      "wallet": 2,
+      "amount": "17.37",
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": 10,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 451,
+      "wallet": 2,
+      "amount": "55.26",
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-10-16 00:00:00",
+      "transId": 453,
+      "wallet": 5,
+      "amount": "1000",
+      "date": "2025-10-16",
+      "type": "income",
+      "category": 21,
+      "description": "sukkot bonus "
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 459,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-10-16",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 460,
+      "wallet": 2,
+      "amount": "10.89",
+      "date": "2025-10-17",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 461,
+      "wallet": 2,
+      "amount": "39.03",
+      "date": "2025-10-19",
+      "type": "expense",
+      "category": 21,
+      "description": "car service"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 462,
+      "wallet": 2,
+      "amount": "2",
+      "date": "2025-10-19",
+      "type": "expense",
+      "category": 21,
+      "description": "car service tip"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 463,
+      "wallet": 2,
+      "amount": "6.49",
+      "date": "2025-10-20",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 464,
+      "wallet": 2,
+      "amount": "13.87",
+      "date": "2025-10-20",
+      "type": "expense",
+      "category": 10,
+      "description": "chestnut"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 465,
+      "wallet": 2,
+      "amount": "41.81",
+      "date": "2025-10-20",
+      "type": "expense",
+      "category": 4,
+      "description": "central"
+    },
+    {
+      "dateEnterd": "2025-10-21 00:00:00",
+      "transId": 466,
+      "wallet": 6,
+      "amount": "14.99",
+      "date": "2025-10-21",
+      "type": "expense",
+      "category": 16,
+      "description": "udemy"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 467,
+      "wallet": 4,
+      "amount": "10",
+      "date": "2025-10-22",
+      "type": "expense",
+      "category": 21,
+      "description": "charity "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 468,
+      "wallet": 4,
+      "amount": "10.89",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 21,
+      "description": "business "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 469,
+      "wallet": 4,
+      "amount": "10.89",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 21,
+      "description": "business "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 470,
+      "wallet": 4,
+      "amount": "46",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 9,
+      "description": "mikvah"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 473,
+      "wallet": 2,
+      "amount": "14.99",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 19,
+      "description": "amex card"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 474,
+      "wallet": 2,
+      "amount": "5.90",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 1,
+      "description": "shout"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 475,
+      "wallet": 2,
+      "amount": "5.98",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 10,
+      "description": "ice cream house"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 476,
+      "wallet": 2,
+      "amount": "10.89",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 21,
+      "description": "business "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 477,
+      "wallet": 2,
+      "amount": "15.27",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 4,
+      "description": "yellow basket"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 478,
+      "wallet": 2,
+      "amount": "20",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 8,
+      "description": "robinhood"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 481,
+      "wallet": 6,
+      "amount": "10.64",
+      "date": "2025-10-23",
+      "type": "expense",
+      "category": 1,
+      "description": "belt"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 471,
+      "wallet": 4,
+      "amount": "638.76",
+      "date": "2025-10-24",
+      "type": "expense",
+      "category": 21,
+      "description": "vacation "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 472,
+      "wallet": 4,
+      "amount": "56",
+      "date": "2025-10-24",
+      "type": "expense",
+      "category": 21,
+      "description": "travel insurance "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 480,
+      "wallet": 6,
+      "amount": "18.99",
+      "date": "2025-10-24",
+      "type": "expense",
+      "category": 21,
+      "description": "udemy"
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 482,
+      "wallet": 6,
+      "amount": "944.76",
+      "date": "2025-10-24",
+      "type": "expense",
+      "category": 21,
+      "description": "vacation "
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 479,
+      "wallet": 2,
+      "amount": "31.56",
+      "date": "2025-10-25",
+      "type": "expense",
+      "category": 1,
+      "description": ""
+    },
+    {
+      "dateEnterd": "2025-10-26 00:00:00",
+      "transId": 483,
+      "wallet": 6,
+      "amount": "14.99",
+      "date": "2025-10-26",
+      "type": "income",
+      "category": 19,
+      "description": "amex card"
+    }
+  ],
+  "transaction": {
+    "dateEnterd": "10/26/2025",
+    "transId": 479,
+    "wallet": "bank",
+    "amount": "31.56",
+    "date": "10/25/2025",
+    "type": "expense",
+    "category": "amazon",
+    "description": ""
+  }
+}
