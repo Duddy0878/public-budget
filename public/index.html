@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Document</title>
+    <link rel="icon" href="./pie-chart.png">
+    <meta name="description"
+        content="Budgeting is the app of the century. It's a simple yet powerful tool that helps you manage your finances and track your expenses and learn how to save." />
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Cormorant:ital,wght@0,300..700;1,300..700&family=DM+Serif+Display:ital@0;1&family=Fredericka+the+Great&family=Michroma&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="mainBox">
+        <div class="menu">
+            <div class="cover"></div>
+            <ul>
+                <li></li>
+                <li id="homePage">Home</li>
+                <li id="transactions">Transactions</li>
+                <li id="wallet">Wallets</li>
+                <li id="notifications">Notifications</li>
+                <li id="statistics">Statistics</li>
+                <li id="goal">My Goal</li>
+                <li id="maaser">Maaser</li>
+                <li id="settings">Settings</li>
+            </ul>
+            <div class="new">
+                <div class="openNewIncome">New Income</div>
+                <div class="openNewExpence">New Expense</div>
+            </div>
+        </div>
+
+        <div class="display">
+
+
+            <div class="homePage openNow">
+                <svg class="profileSvg" xmlns="http://www.w3.org/2000/svg" height="50px" viewBox="0 -960 960 960"
+                    width="50px">
+                    <path
+                        d="M234-276q51-39 114-61.5T480-360q69 0 132 22.5T726-276q35-41 54.5-93T800-480q0-133-93.5-226.5T480-800q-133 0-226.5 93.5T160-480q0 59 19.5 111t54.5 93Zm246-164q-59 0-99.5-40.5T340-580q0-59 40.5-99.5T480-720q59 0 99.5 40.5T620-580q0 59-40.5 99.5T480-440Zm0 360q-83 0-156-31.5T197-197q-54-54-85.5-127T80-480q0-83 31.5-156T197-763q54-54 127-85.5T480-880q83 0 156 31.5T763-763q54 54 85.5 127T880-480q0 83-31.5 156T763-197q-54 54-127 85.5T480-80Zm0-80q53 0 100-15.5t86-44.5q-39-29-86-44.5T480-280q-53 0-100 15.5T294-220q39 29 86 44.5T480-160Zm0-360q26 0 43-17t17-43q0-26-17-43t-43-17q-26 0-43 17t-17 43q0 26 17 43t43 17Zm0-60Zm0 360Z" />
+                </svg>
+                <div class="header">
+                    <h1>Hi David How AreYou Doing Today!</h1>
+                </div>
+                <div class="mid">
+                    <div class="question">
+                        <h2> QUESTION </h2><br> Is There A Way That one + one should <br> Equal Three?
+                    </div>
+                    <div class="answer">
+                        <h2> ANSWER</h2><br>
+                        YES!!.
+                        Save One Dollar And Another Dollar And You`ll Learn To earn Another
+                    </div>
+                </div>
+                <div class="bottem">
+                    <div class="weekly" data-gallary="Weekly">hi</div>
+                    <div class="monthly" data-gallary="Monthly">try</div>
+                    <div class="yearly  top" data-gallary="Yearly">
+                    </div>
+                </div>
+            </div>
+
+            <div class="transactions">
+                <div class="manage">
+                    <div class="manage2">
+                        <svg class="print" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px">
+                            <path
+                                d="M640-640v-120H320v120h-80v-200h480v200h-80Zm-480 80h640-640Zm560 100q17 0 28.5-11.5T760-500q0-17-11.5-28.5T720-540q-17 0-28.5 11.5T680-500q0 17 11.5 28.5T720-460Zm-80 260v-160H320v160h320Zm80 80H240v-160H80v-240q0-51 35-85.5t85-34.5h560q51 0 85.5 34.5T880-520v240H720v160Zm80-240v-160q0-17-11.5-28.5T760-560H200q-17 0-28.5 11.5T160-520v160h80v-80h480v80h80Z" />
+                        </svg>
+                        <svg class="download" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px">
+                            <path
+                                d="M480-320 280-520l56-58 104 104v-326h80v326l104-104 56 58-200 200ZM240-160q-33 0-56.5-23.5T160-240v-120h80v120h480v-120h80v120q0 33-23.5 56.5T720-160H240Z" />
+                        </svg>
+                        <svg class="pdf" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px" fill="#b44c4c">
+                            <path
+                                d="M360-460h40v-80h40q17 0 28.5-11.5T480-580v-40q0-17-11.5-28.5T440-660h-80v200Zm40-120v-40h40v40h-40Zm120 120h80q17 0 28.5-11.5T640-500v-120q0-17-11.5-28.5T600-660h-80v200Zm40-40v-120h40v120h-40Zm120 40h40v-80h40v-40h-40v-40h40v-40h-80v200ZM320-240q-33 0-56.5-23.5T240-320v-480q0-33 23.5-56.5T320-880h480q33 0 56.5 23.5T880-800v480q0 33-23.5 56.5T800-240H320Zm0-80h480v-480H320v480ZM160-80q-33 0-56.5-23.5T80-160v-560h80v560h560v80H160Zm160-720v480-480Z" />
+                        </svg>
+                        <div class="pdfSelect">
+
+                        </div>
+                    </div>
+                    <div class="manage2">
+                        <svg class="refresh" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px" fill="#1f1f1f">
+                            <path
+                                d="M480-160q-134 0-227-93t-93-227q0-134 93-227t227-93q69 0 132 28.5T720-690v-110h80v280H520v-80h168q-32-56-87.5-88T480-720q-100 0-170 70t-70 170q0 100 70 170t170 70q77 0 139-44t87-116h84q-28 106-114 173t-196 67Z" />
+                        </svg>
+                        <svg class="bigView" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px" fill="#1f1f1f">
+                            <path
+                                d="M200-120q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h280v80H200v560h560v-280h80v280q0 33-23.5 56.5T760-120H200Zm188-212-56-56 372-372H560v-80h280v280h-80v-144L388-332Z" />
+                        </svg>
+                        <svg class="hideTOTAL" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px" fill="#c79b6f">
+                            <path
+                                d="m644-428-58-58q9-47-27-88t-93-32l-58-58q17-8 34.5-12t37.5-4q75 0 127.5 52.5T660-500q0 20-4 37.5T644-428Zm128 126-58-56q38-29 67.5-63.5T832-500q-50-101-143.5-160.5T480-720q-29 0-57 4t-55 12l-62-62q41-17 84-25.5t90-8.5q151 0 269 83.5T920-500q-23 59-60.5 109.5T772-302Zm20 246L624-222q-35 11-70.5 16.5T480-200q-151 0-269-83.5T40-500q21-53 53-98.5t73-81.5L56-792l56-56 736 736-56 56ZM222-624q-29 26-53 57t-41 67q50 101 143.5 160.5T480-280q20 0 39-2.5t39-5.5l-36-38q-11 3-21 4.5t-21 1.5q-75 0-127.5-52.5T300-500q0-11 1.5-21t4.5-21l-84-82Zm319 93Zm-151 75Z" />
+                        </svg>
+
+
+                    </div>
+                    <div class="search">
+                        <input type="text" placeholder="search"><svg class="icon" xmlns="http://www.w3.org/2000/svg"
+                            height="24px" viewBox="0 -960 960 960" width="24px">
+                            <path
+                                d="M784-120 532-372q-30 24-69 38t-83 14q-109 0-184.5-75.5T120-580q0-109 75.5-184.5T380-840q109 0 184.5 75.5T640-580q0 44-14 83t-38 69l252 252-56 56ZM380-400q75 0 127.5-52.5T560-580q0-75-52.5-127.5T380-760q-75 0-127.5 52.5T200-580q0 75 52.5 127.5T380-400Z" />
+                        </svg>
+                    </div>
+                    <div class="filter">Filter
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px">
+                            <path
+                                d="M440-160q-17 0-28.5-11.5T400-200v-240L168-736q-15-20-4.5-42t36.5-22h560q26 0 36.5 22t-4.5 42L560-440v240q0 17-11.5 28.5T520-160h-80Zm40-308 198-252H282l198 252Zm0 0Z" />
+                        </svg>
+                        <div class="filterDrop">
+                            <select name="" id="filterCategorys">
+                                <label for=""></label>
+                                <option value="" selected>Category</option>
+                                <option value="">PayCheck</option>
+                                <option value="">grocery</option>
+                                <option value="">gas</option>
+                            </select>
+                            <select name="" id="filterWallets">
+
+                            </select>
+                            <select name="" id="filterTypes">
+                                <option value="none" selected>Income/Expense</option>
+                                <option value="income">Income</option>
+                                <option value="expense">Expense</option>
+
+                            </select>
+                            <select name="" id="filterDates">
+                                <option value="none" selected>Month</option>
+                                <option value="01">January</option>
+                                <option value="02">Febuary</option>
+                                <option value="03">March</option>
+                                <option value="04">April</option>
+                                <option value="05">May</option>
+                                <option value="06">June</option>
+                                <option value="07">July</option>
+                                <option value="08">August</option>
+                                <option value="09">September</option>
+                                <option value="10">October</option>
+                                <option value="11">November</option>
+                                <option value="12">December</option>
+                            </select>
+                            <button>Apply</button>
+                        </div>
+                    </div>
+                    <div class="sort">Sort By
+                        <svg class="icon" xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960"
+                            width="24px">
+                            <path
+                                d="m80-280 150-400h86l150 400h-82l-34-96H196l-32 96H80Zm140-164h104l-48-150h-6l-50 150Zm328 164v-76l202-252H556v-72h282v76L638-352h202v72H548ZM360-760l120-120 120 120H360ZM480-80 360-200h240L480-80Z" />
+                        </svg>
+                        <div class="sortDrop">
+                            <ul>
+                                <li id="byDate">Date</li>
+                                <li id="byAmount">Amount</li>
+                                <li id="byType">Type</li>
+                                <li id="byCategory">Category</li>
+                                <li id="byWallet">Wallet</li>
+                            </ul>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="tableCon">
+                    <div class="modalEdit">
+
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th>Date</th>
+                                <th>Amount</th>
+                                <th>type</th>
+                                <th>Category</th>
+                                <th>Acount</th>
+                                <th></th>
+
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>10/10/25</td>
+                                <td>$10,000</td>
+                                <td>Income</td>
+                                <td>PayCheck</td>
+                                <td>Gmach</td>
+                                <td>
+                                    <svg class="editTrans" xmlns="http://www.w3.org/2000/svg" height="24px"
+                                        viewBox="0 -960 960 960" width="24px" fill="#1f1f1f">
+                                        <path
+                                            d="M200-200h57l391-391-57-57-391 391v57Zm-80 80v-170l528-527q12-11 26.5-17t30.5-6q16 0 31 6t26 18l55 56q12 11 17.5 26t5.5 30q0 16-5.5 30.5T817-647L290-120H120Zm640-584-56-56 56 56Zm-141 85-28-29 57 57-29-28Z" />
+                                    </svg>
+                                    <svg class="deleteTrans" xmlns="http://www.w3.org/2000/svg" height="24px"
+                                        viewBox="0 -960 960 960" width="24px" fill="#1f1f1f">
+                                        <path
+                                            d="M280-120q-33 0-56.5-23.5T200-200v-520h-40v-80h200v-40h240v40h200v80h-40v520q0 33-23.5 56.5T680-120H280Zm400-600H280v520h400v-520ZM360-280h80v-360h-80v360Zm160 0h80v-360h-80v360ZM280-720v520-520Z" />
+                                    </svg>
+                                </td>
+                            </tr>
+
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+
+            <div class="wallet">
+                <div class="walletHeader">
+                    <span class="walletsTotal"></span> &nbsp; &nbsp; <svg class="hide"
+                        xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960" width="30px"
+                        fill="#1f1f1f">
+                        <path
+                            d="m644-428-58-58q9-47-27-88t-93-32l-58-58q17-8 34.5-12t37.5-4q75 0 127.5 52.5T660-500q0 20-4 37.5T644-428Zm128 126-58-56q38-29 67.5-63.5T832-500q-50-101-143.5-160.5T480-720q-29 0-57 4t-55 12l-62-62q41-17 84-25.5t90-8.5q151 0 269 83.5T920-500q-23 59-60.5 109.5T772-302Zm20 246L624-222q-35 11-70.5 16.5T480-200q-151 0-269-83.5T40-500q21-53 53-98.5t73-81.5L56-792l56-56 736 736-56 56ZM222-624q-29 26-53 57t-41 67q50 101 143.5 160.5T480-280q20 0 39-2.5t39-5.5l-36-38q-11 3-21 4.5t-21 1.5q-75 0-127.5-52.5T300-500q0-11 1.5-21t4.5-21l-84-82Zm319 93Zm-151 75Z" />
+                    </svg>
+                </div>
+                <div class="wallets">
+
+                    <div class="allWallets">
+
+                    </div>
+
+                    <div class="editWallets">
+                        <div id="editW">
+                            Edit Wallet
+                        </div>
+
+                        <div id="deleteW">
+                            Delete Wallet
+                        </div>
+
+                        <div id="createW">
+                            Create New Wallet
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="notifcations">
+                <div class="bar">
+                    <div class="threats">
+                        <div class="pend">Pending Transactions</div>
+                        <div class="del">Deleted</div>
+                        <div class="edit">Edited</div>
+                        <div class="dup">Duplicates</div>
+                        <div class="help">Help</div>
+                        <div class="aboveGoal">Above Goal</div>
+                        <div class="monthlyReminder">Monthly Reminder</div>
+                        <div class="help">Help</div>
+                        <div class="incomeConfirmation">Income Confirmation</div>
+                    </div>
+                    <div class="eachThreat">
+                        <svg xmlns="http://www.w3.org/2000/svg" height="474px" viewBox="0 -960 960 960" width="474px"
+                            opacity="0.4" fill="#b44c4c">
+                            <path
+                                d="M160-200v-80h80v-280q0-83 50-147.5T420-792v-28q0-25 17.5-42.5T480-880q25 0 42.5 17.5T540-820v28q80 20 130 84.5T720-560v280h80v80H160Zm320-300Zm0 420q-33 0-56.5-23.5T400-160h160q0 33-23.5 56.5T480-80ZM320-280h320v-280q0-66-47-113t-113-47q-66 0-113 47t-47 113v280Z" />
+                        </svg>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="statistics">
+                <div class="statisticH">
+                    <div class="controls">
+                        <div>
+                            <label for="">Wallet</label>
+                            <select name="" id="controlWallet">
+
+                            </select>
+                        </div>
+                        <div class="timeSpan">
+                            <label for="">Time Span</label>
+                            <select name="" id="controlTime">
+                                <option value="none">All</option>
+                                <option value="year">Year</option>
+                                <option value="month">Month</option>
+                                <option value="week">Week</option>
+
+                            </select>
+                        </div>
+                        <div class="months">
+                            <label for="">Month</label>
+                            <select name="" id="controlMonth">
+                                <option value="none" selected>All</option>
+                                <option value="01">January</option>
+                                <option value="02">Febuary</option>
+                                <option value="03">March</option>
+                                <option value="04">April</option>
+                                <option value="05">May</option>
+                                <option value="06">June</option>
+                                <option value="07">July</option>
+                                <option value="08">August</option>
+                                <option value="09">September</option>
+                                <option value="10">October</option>
+                                <option value="11">November</option>
+                                <option value="12">December</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="changeChart">
+
+                        <div data-gallary="HistoGram">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px">
+                                <path
+                                    d="m296-320 122-122 80 80 142-141v63h80v-200H520v80h63l-85 85-80-80-178 179 56 56Zm-96 200q-33 0-56.5-23.5T120-200v-560q0-33 23.5-56.5T200-840h560q33 0 56.5 23.5T840-760v560q0 33-23.5 56.5T760-120H200Zm0-80h560v-560H200v560Zm0-560v560-560Z" />
+                            </svg>
+                        </div>
+                        <div data-gallary="DonutChart">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px">
+                                <path
+                                    d="M521-878q143 14 243.5 114.5T879-520H593q-9-26-27.5-45.5T521-594v-284Zm80 102v136q11 9 21 19t19 21h136q-24-60-70-106t-106-70ZM441-878v284q-36 13-58 44.5T361-480q0 38 22 68.5t58 43.5v286Q287-97 184-211T81-480q0-155 103-269t257-129Zm-80 102q-91 35-145.5 116T161-480q0 99 54.5 180T361-182v-138q-38-29-59-70.5T281-480q0-48 21-89.5t59-70.5v-136Zm232 336h286q-14 143-114.5 243.5T521-82v-286q26-9 44.5-27.5T593-440Zm48 80q-8 11-18.5 21T601-320v136q60-24 106-70t70-106H641ZM281-479Zm360-121Zm0 240Z" />
+                            </svg>
+                        </div>
+                        <div class="" data-gallary="LineChart">
+                            <svg xmlns="http://www.w3.org/2000/svg" height="40px" viewBox="0 -960 960 960" width="40px"
+                                fill="#c79b6f">
+                                <path
+                                    d="M480-80 360-642l-88 402H80v-80h128l113-520h79l122 572 78-332h80l72 280h128v80H690l-48-188-82 348h-80Z" />
+                            </svg>
+                        </div>
+                    </div>
+                </div>
+                <div class="ConTainer">
+
+                    <div class="pieChart">
+                        <canvas id="pieChartIn"></canvas>
+                        <canvas id="pieChartEx"></canvas>
+                    </div>
+
+
+                    <div class="histGram">
+                        <canvas id="incomeExpenseChart"></canvas>
+                    </div>
+
+                    <div class="linechart">
+                        <canvas id="LChart"></canvas>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="settings">
+
+            </div>
+
+            <div class="newModal">
+                <div class="newModalHeader">
+
+
+
+                </div>
+                <svg class="closeNew" xmlns="http://www.w3.org/2000/svg" height="30px" viewBox="0 -960 960 960"
+                    width="30px">
+                    <path
+                        d="m256-200-56-56 224-224-224-224 56-56 224 224 224-224 56 56-224 224 224 224-56 56-224-224-224 224Z" />
+                </svg>
+                <form action="">
+                    <div class="amount">
+                        <label for="">Enter Amount:</label>
+                        <input type="number" placeholder="Amount">
+                    </div>
+
+                    <div class="account">
+                        <label for="">Enter The Account:</label>
+                        <select name="" id="">
+                            <option value="gmach">Gmach</option>
+                        </select>
+                    </div>
+
+                    <div class="date">
+                        <label for="">Enter The Date:</label>
+                        <input type="date">
+                    </div>
+
+                    <div class="category">
+                        <label for="">Enter The Category:</label>
+                        <select name="" id="">
+                            <option value="food">Food</option>
+                        </select>
+                    </div>
+
+                    <div class="description">
+                        <label for="">Enter a Description</label>
+                        <input type="text" placeholder="Description" list="descriptions">
+                        <datalist id="descriptions">
+
+                        </datalist>
+                    </div>
+
+                    <div class="confirm">
+                        <div class="pndg">
+                            <label for="">Pending </label>
+                            <input type="checkbox" value="Pending">
+                            <span><u>?</u></span>
+                        </div>
+                        <div class="unkn">
+                            <label for="">unknown </label>
+                            <input type="checkbox" value="unknown">
+                            <span><u>?</u></span>
+                        </div>
+
+                        <input type="submit">
+
+                    </div>
+
+                </form>
+            </div>
+
+            <div class="premium">
+                <h1>Sign Up For Premium</h1>
+                <h3>For just $10 A Month You`ll Get Access To Succes </h3>
+                <div>
+                    <div class="leftSIDE">
+                        <p> &#8226; With premium you can set a goal,
+                            <br> &#8226; keep track of achievement,
+                            <br>&#8226; set up auto income an expenses,
+                            <br> &#8226; custom settings,<br>
+                            &#8226; keep track of your maaser ,
+                            <br> &#8226; and much more...
+                        </p>
+                    </div>
+                    <svg xmlns="http://www.w3.org/2000/svg" height="24px" viewBox="0 -960 960 960" width="24px"
+                        fill="#c79b6f">
+                        <path
+                            d="m387-412 35-114-92-74h114l36-112 36 112h114l-93 74 35 114-92-71-93 71ZM240-40v-309q-38-42-59-96t-21-115q0-134 93-227t227-93q134 0 227 93t93 227q0 61-21 115t-59 96v309l-240-80-240 80Zm240-280q100 0 170-70t70-170q0-100-70-170t-170-70q-100 0-170 70t-70 170q0 100 70 170t170 70ZM320-159l160-41 160 41v-124q-35 20-75.5 31.5T480-240q-44 0-84.5-11.5T320-283v124Zm160-62Z" />
+                    </svg>
+                </div>
+            </div>
+
+        </div>
+
+    </div>
+
+
+
+
+
+    <script type="module" src="./js/display.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf/2.5.1/jspdf.umd.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jspdf-autotable/3.8.2/jspdf.plugin.autotable.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/print-js/1.6.0/print.min.js"></script>
+
+</body>
+
+</html>

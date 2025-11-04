@@ -1,0 +1,1052 @@
+   :root{
+    --myRed: #b44c4c;
+    --myBackground: #f8f4f4;
+    --myDarkerBackground: #f5e7e7;
+   
+   }
+
+   .openNow{
+    /* z-index: 4 !important; */
+    display: grid !important;
+   }
+   
+   body{
+    background: var(--myBackground);
+    }
+    .mainBox{
+    padding: 30px;
+    display: flex;
+    gap: 0px;
+    }
+    .menu{
+        position: relative;
+    width: 25%;
+    height: 90%;
+    max-height: 92vh;
+    overflow: scroll;
+    overflow-x: hidden;
+    scrollbar-width: none;
+    background: var(--myRed);
+    box-shadow: 8px 8px 14px #a03d3d;
+    }
+        .allWallets::-webkit-scrollbar{
+         display: none;
+        } 
+
+      .menu ul{
+        list-style: none;
+        margin: 2px;
+        padding: 0px;
+        margin-top: 10px;
+      }
+
+      .menu li{
+        margin-top: 1px;
+        color: var(--myBackground);
+        font-size: 35px;
+        padding: 10px;
+        margin-left: 10px;
+        border-bottom: 1px solid var(--myBackground);
+       
+      }
+
+      .selected{
+     
+      }
+
+      .menu li:hover{
+        background: rgba(0,0,0,0.2);
+        cursor: pointer;
+      }
+
+      .new{
+        margin-top:0px ;
+        padding: 40px;
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+            text-align: center;
+      }
+
+      .new div{
+        border: solid 1px var(--myBackground);
+        padding: 10px;
+        color: var(--myBackground);
+        border-radius: 10px;
+      }
+
+      .new div:hover{
+        background: rgba(0,0,0,0.2);
+        cursor: pointer;
+      }
+
+    .display{
+    width: 75%;
+    min-height: 90%;
+    max-height: 91vh;
+    border: 4px solid var(--myRed);
+    background: var(--myBackground);
+    box-shadow: 8px 8px 14px #a03d3d;
+    position: relative;
+    overflow: hidden;
+    }
+
+  .display > div{
+    height: 95%;
+    width: 100%;
+  }
+
+ /*#region homePage */
+    
+  .homePage{
+    display: none;
+    background: var(--myBackground);
+    grid-template-rows: 1fr 2fr 1fr;
+  }
+
+        svg.profileSvg{
+          fill: var(--myRed);  
+          position: absolute;
+          top:15px;
+          right: 30px;
+        }
+
+        svg.profileSvg:hover{
+          transform: scale(1.1);
+          cursor: pointer;
+        }
+
+        .header{
+        color: var(--myRed);
+        font-size: 20px;
+        text-align: center;
+        }
+
+        .mid{
+            display: grid ;
+            grid-template-columns: 1fr 1fr;
+            width: 80%;
+            height: 70%;
+            justify-self: center;
+            gap: 20px;
+            text-align: center;
+            opacity: 0.7;
+        }
+
+        .mid div{
+            padding: 10px;
+            border: 1px solid var(--myRed);
+            border-radius: 15px;
+            color: var(--myRed);
+            font-size: 20px;
+        }
+
+        .bottem{
+            padding: 20px;
+            position: relative;
+        }
+
+        .bottem .top{
+            z-index: 2;
+        }
+
+        .bottem .top::before{
+            background: var(--myRed);
+            color: var(--myBackground);
+        }
+
+        .bottem > div{
+            border: var(--myRed) solid 3px;
+            height: 120px;
+            width: 95%;
+            position: absolute;
+            background: var(--myBackground);
+            z-index: 1;
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .bottem > div::before{
+            text-align: center;
+            color: var(--myRed);
+            content:  attr(data-gallary);
+            display: block;
+            position: absolute;
+            width: 60px;
+            top: -26px;
+            height: 20px;
+            background-color: transparent;
+            border: 3px solid var(--myRed);
+            cursor: pointer;
+        }
+
+        .bottem > div > div{
+            text-align: center;
+            color: var(--myRed);
+            font-size: 20px;
+            line-height: 40px;
+        }
+
+
+        .bottem div:hover::before{
+            background: var(--myRed);
+            color:var(--myBackground);
+        }
+
+        .bottem .yearly::before{
+            left: -3px;
+        }
+
+        .bottem .monthly::before{
+            left: 62px;
+        }
+
+        .bottem .weekly::before{
+            left: 126px;
+        }
+/* #endregion HomePage */
+
+/* #region transactions */
+
+.transactions{
+    display: none;
+    background: var(--myBackground);
+    padding: 25px;
+    grid-template-rows: 1fr 5fr;
+    gap: 50px;
+    margin-left: 20px;
+}
+
+sub{
+    position: absolute;
+    bottom: 3px;
+    right: 23px;
+    color: gray;
+    opacity: 0.9;
+    font-size: 11px;
+    display: block;
+}
+
+
+
+    .transactions > div{
+        
+        width: 90%;
+        
+    }
+
+    .transactions .manage{
+        display: grid;
+        grid-template-columns: 1.5fr 1fr 2fr 1fr 1fr;
+        gap: 30px;
+        align-items: center;
+    }
+
+    .manage > div{
+        position: relative;
+        padding: 10px;
+        border: solid var(--myRed) 1px;
+        border-radius: 5px;
+        height: 15%;
+        color: var(--myRed);
+        cursor: pointer;
+    }
+
+    .manage .manage2{
+        border: none;
+    }
+
+    .manage .manage2 > svg{
+    fill: var(--myRed);
+    padding-right: 4px;
+    }
+
+    .pdfSelect{
+        /* width: 130px; */
+    }
+
+    .pdfSelect > div > div{
+        padding: 2px;
+        text-align: center;
+        border: 1px solid var(--myRed);
+    }
+
+    .pdfSelect > div > div:hover{
+        background: var(--myRed);
+        color: var(--myBackground);
+        cursor: pointer;
+    }
+
+    .pdfSelect select{
+        background: transparent;
+        border: none;
+        color: var(--myRed);
+        padding: 5px;
+    }
+
+    .manage .manage2 > svg:hover{
+        cursor: pointer;
+        transform: scale(1.1);
+    }
+
+    .manage svg.icon{
+        fill: var(--myRed);
+        position: absolute;
+        right: 10px;
+        top: 8px;
+    }
+
+    .manage svg.icon:hover{
+        cursor: pointer;
+    }
+
+    .manage input{
+        background: transparent;
+        border: none;
+    }
+
+    .manage input:focus{
+        outline: none;
+    }
+        
+         .manage .filterDrop, .manage .sortDrop{
+            display: none;
+            position: absolute;
+            left: -1px;
+
+            background: var(--myBackground);
+            width: 100%;
+            border: var(--myRed) solid 1px;
+            border-top: none ;
+            z-index: 3;
+         }
+
+         .manage .filterDrop > select, .manage .filterDrop > button{
+            background: transparent;
+            border-radius: 5px;
+            padding: 5px;
+            width: 80%;
+            margin: 10px;
+            color: var(--myRed);
+         }
+
+         .manage .filterDrop > button:hover{
+            cursor: pointer;
+            transform: scale(1.1);
+         }
+
+         .manage .sortDrop > ul{
+            list-style: none;
+            text-align: start;
+            color: var(--myRed);
+            padding: 15px;
+         }
+
+         .manage .sortDrop > ul > li{
+            padding: 5px;
+         }
+
+         .manage .sortDrop > ul > li:hover{
+            cursor: pointer;
+            text-decoration: underline;
+         }
+
+    .bigg{
+
+    }
+            
+
+    .tableCon{
+        border: solid var(--myRed) 1px;
+        height: 450px;
+        overflow: scroll;
+        -ms-overflow-style: none;
+        scrollbar-width: none;
+    }
+
+    .modalEdit{
+        display: none;
+        position: absolute;
+        top: 40px;
+        width: 81.5%;
+        z-index: 5;
+        background: var(--myBackground);
+        padding: 20px;
+        border: var(--myRed) 1px solid;
+        border-radius: 10px;
+        gap: 10px;
+    }
+
+    .modalEdit input, .modalEdit select, .modalEdit button{
+        width: 90%;
+        padding: 10px;
+        margin: 10px 0;
+        border: 1px solid var(--myRed);
+        border-radius: 5px;
+    }
+
+    .modalEdit button.saveBtn{
+        background: var(--myRed);
+        color: var(--myBackground);
+        border: none;
+        cursor: pointer;
+    }
+
+    .modalEdit svg{
+        position: absolute;
+        right: 1px;
+        top: 0px;
+        cursor: pointer;
+    }
+
+    .tableCon  table{
+        position: relative;
+        border-spacing: 0;
+        background: transparent;
+        color: var(--myRed);
+        border: var(--myRed) 1px solid;
+    }
+
+    .tableCon  table  td:nth-child(4){
+        cursor: pointer;
+    }
+
+    .tableCon  table  td{
+        position: relative;
+    }
+
+    .tableCon  table  td:nth-child(4)::before{
+        position: absolute;
+        top: -15px;
+        text-align: center;
+        right: 0px;
+        content: attr(data-gallary);
+        width: 150px;
+        background: var(--myDarkerBackground);
+        color: var(--myRed);
+        border: none;
+        padding: 5px;
+        border-radius: 10px;
+        z-index: 8;
+        opacity: 0;
+        pointer-events: none;
+        opacity: 0;
+    }
+
+    .tableCon  table  td:nth-child(4):hover::before{
+      opacity: 1;
+    }
+
+    .tableCon  table tr td:nth-child(4):hover::before{
+        opacity: 1;
+    }
+
+    .tableCon th, td{
+        width: 200px;
+        padding: 10px;
+        text-align: start;
+    }
+
+    .tableCon  table  thead{
+        position: sticky;
+        top: 0px;
+        z-index: 2;
+        font-size: 40px;
+        color: var(--myBackground);
+        background: var(--myRed);
+    }
+
+    .tableCon tbody{
+
+        font-size: 20px;
+    }
+
+    .tableCon tbody tr:nth-child(even){
+        background: var(--myDarkerBackground);
+
+    }
+
+    svg.editTrans, svg.deleteTrans{
+        cursor: pointer;
+        fill: var(--myRed);
+    }
+
+
+/* #endregion transaction */
+
+/* #region Wallet*/
+ .wallet{
+    display: none;
+    background: var(--myBackground);
+    width: 100%;
+    height: 100%;
+    z-index: 3;
+    grid-template-rows: 1fr 4fr;
+    justify-items: center;
+    gap: 20px;
+    padding: 20px;
+ }
+
+ .walletHeader{
+    padding: 10px;
+    font-size: 35px;
+    align-content: center;
+    color: var(--myRed);
+ }
+
+  svg.hide{
+    fill: var(--myRed);
+    cursor: pointer;
+ }
+
+ svg.hide:hover{
+    transform: scale(1.2);
+ }
+
+ .wallets{
+    width: 100%;
+ }
+
+ .allWallets{
+    height: 70%;
+    width: 70%;
+    justify-self: center;
+    /* border: 1px var(--myRed) solid; */
+    overflow: scroll;
+    overflow-x: hidden;
+ }
+
+.allWallets::-webkit-scrollbar{
+  width: 20px;
+  height: 10px;
+} 
+
+.allWallets::-webkit-scrollbar-track{
+ 
+}
+
+.allWallets::-webkit-scrollbar-thumb{
+  background: var(--myRed);
+  border-radius: 15px;
+  border: 6px solid var(--myBackground);
+}
+
+ .allWallets > div{
+    justify-self: center;
+    width: 70%;
+    border-bottom: var(--myRed) 1px solid;
+    font-size: 20px;
+    color: var(--myRed);
+    padding: 20px;
+    position: relative;
+ }
+
+ svg.expandWallet{
+    position: absolute;
+    right: 40px;
+    fill: var(--myRed);
+    cursor: pointer;
+ }
+
+  .hidden{
+    display: none;
+ }
+
+ .expanded{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-top: none !important;
+ }
+
+ .expanded .one{
+    padding: 10px;
+    align-self: center;
+}
+
+ .expanded .one a{
+   
+   font-size: 18px !important;
+   text-decoration: underline;
+   cursor: pointer;
+ }
+
+ .expanded .two{
+    align-self: center;
+    text-align: center;
+    line-height: 50px;
+    font-size: 20px !important;
+ }
+
+ .editWallets{
+    display: flex;
+    gap: 30px;
+    justify-self: center;
+ }
+
+ .editWallets div, .editWallets input, .editWallets select{
+    border: var(--myRed) 1px solid;
+    padding: 10px;
+    width: 150px;
+    border-radius: 20px;
+    text-align: center;
+    color: var(--myRed);
+    justify-self: center;
+    margin-top: 60px;
+ }
+
+ .editWallets div:hover{
+    background: rgba(0,0,0,0.1);
+     cursor: pointer;
+ }
+
+ /* #endregion Wallet */
+
+/* #region Notifcations */
+
+.notifcations{
+    display: none;
+    background: var(--myBackground);
+    /* padding: 100px; */
+}
+
+.notifcations .bar{
+    width:  80%;
+    height: 70%;
+    overflow: hidden;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    border:  1px solid var(--myRed);
+    justify-self: center;
+    align-self: center;
+}
+
+.notifcations .threats{
+    font-size: 20px;
+    color: var(--myRed);
+    overflow: scroll;
+    overflow-x: hidden;
+    border-right: var(--myRed) 1px solid;
+}
+
+.notifcations .threats::-webkit-scrollbar{
+  width: 20px;
+  height: 10px;
+} 
+
+.notifcations .threats::-webkit-scrollbar-track{
+ 
+}
+
+.notifcations .threats::-webkit-scrollbar-thumb{
+  background: var(--myRed);
+  border-radius: 15px;
+  border: 6px solid var(--myBackground);
+}
+
+.notifcations .threats > div{
+   border-top: var(--myRed ) 1px solid;
+ 
+    padding: 20px;
+}
+
+.notifcations .threats > div:hover{
+    cursor: pointer;
+    background: rgba(0,0,0,0.1);
+}
+
+.notifcations .threats > div:first-child{
+    border-top: none;
+}
+
+.notifcations .eachThreat{
+    padding: 30px;
+    overflow: scroll;
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.notifcations .eachThreat::-webkit-scrollbar{
+    background: transparent;
+}
+
+.notifcations .eachThreat > div{
+        margin: 20px;
+    margin-left: 140px;
+    background: white;
+    box-shadow: 3px 3px 3px lightgray;
+    padding: 20px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    width: 250px;
+    color:  var(--myRed);
+    text-align: start;
+}
+
+.notifcations .eachThreat p{
+    font-size: 13px;
+    line-height: 20px;
+}
+
+.notifcations .eachThreat button{
+    cursor: pointer;
+    border-radius: 10px;
+    background: transparent;
+    border: solid 0.5px var(--myRed);
+    color: var(--myRed);
+}
+
+.notifcations .eachThreat button:hover{
+    background: var(--myRed);
+    color: var(--myBackground);
+}
+
+.notifcations .eachThreat .me{
+    margin-left: 20px;
+    background: rgb(245, 228, 228);
+}
+.notifcations .eachThreat .typing{
+    position: sticky;
+    bottom: 0px;
+    left: 0px;
+    margin: 0px;
+    width: 90%;
+    background-color: rgb(245, 228, 228);
+    border: solid 1px var(--myRed);
+    display: none;
+    align-items: center;
+    gap: 10px;
+}
+
+.notifcations .eachThreat input{
+    background: transparent;
+    border: none;
+    border-bottom: solid 1px var(--myRed);
+    font-size: 14px;
+    color: var(--myRed);
+    width:100%;
+    padding: 5px;
+}
+
+.notifcations .eachThreat svg{
+    fill: var(--myRed);
+    cursor: pointer;
+}
+
+.notifcations .eachThreat .notDate{
+    font-size: 10px;
+    text-align: start;
+    padding-top: 10px;
+}
+
+/* #endregion Notifications */
+
+/* #region Statistics */
+.statistics {
+    display: none;
+    background: var(--myBackground);
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px lightgray;
+    overflow-y: auto;
+    grid-template-rows: 1fr 2fr;
+    overflow-x: hidden;
+}
+
+.statisticH{
+    padding: 30px;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    justify-items: center;
+}
+
+.controls{
+    display: flex;
+    gap: 100px;
+}
+
+.controls > div{
+    font-size: 25px;
+    color: var(--myRed);
+}
+
+.controls > div >select{
+   display: block ;
+   margin-top: 15px;
+   width: 150px;
+   height: 40px;
+   background: transparent;
+   color: var(--myRed);
+   font-size: 17px;
+}
+
+.changeChart{
+    padding: 20px;
+     position: relative;
+    display: flex;
+    gap: 10px;
+    justify-items: start;
+}
+
+.changeChart > div{
+   
+}
+
+.changeChart svg{
+    
+    fill: var(--myRed);
+    cursor: pointer;
+}
+
+.changeChart > div::before{
+    top:  -10px;
+    left: -10px;
+    border-top: var(--myRed) 1px solid;
+    border-bottom: var(--myRed) 1px solid;
+    position: absolute;
+    content: attr(data-gallary);
+    color: var(--myRed);
+    font-size: 25px;
+    width: 120px;
+    height: 30px;
+    opacity: 0;
+    transform: translateY(-30px);
+    transition: 200ms ease;
+}
+
+.changeChart > div:hover::before{
+    opacity: 1;
+    transform: translateY(0px);
+}
+
+.ConTainer{
+    position: relative;
+}
+
+.statisticsContent {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    gap: 30px;
+    padding: 20px;
+}
+
+.chartContainer {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.pieChart {
+    display: flex;
+    gap: 30px; 
+    justify-content: center;
+    padding: 50px;
+}
+
+#pieChartIn, #pieChartEx{
+    width:100%;
+    max-width:400px;
+    height:100%;
+    max-height:400px
+}
+
+.histGram, .linechart{
+ padding: 20px;
+ padding-top: 70px;
+}
+
+.linechart{
+    padding-bottom: 70px;
+}
+
+#LChart, #incomeExpenseChart{
+    width:100%;
+    max-width:900px;
+    height:100%;
+    max-height:1000px
+}
+
+.statisticsControls {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
+
+.statisticsControls select {
+    padding: 10px 15px;
+    border: 2px solid var(--myRed);
+    border-radius: 5px;
+    background: white;
+    color: var(--myRed);
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.statisticsControls select:focus {
+    outline: none;
+    box-shadow: 0 0 5px rgba(180, 76, 76, 0.3);
+}
+
+.noDataMessage {
+    text-align: center;
+    color: #666;
+    font-size: 18px;
+    margin-top: 50px;
+}
+
+/* #endregion Statistics */
+
+/* #end region Statistic */
+
+/* #region Settings */
+
+.settings{
+    display: none;
+}
+/* #endregion Settings */
+
+/* #region premuim */
+
+.premium{
+ display: none;
+ grid-template-columns: 1fr;
+ background: var(--myBackground);
+ padding: 25px;
+  color: var(--myRed);
+  text-align: center;
+}
+
+.premium > h1{
+    font-size: 50px;
+font-family: "Fredericka the Great", serif;
+}
+
+.premium > h3{
+        margin-bottom: 100px;
+font-family: "Playfair Display", serif;
+}
+
+.premium > div{
+    width: 80%;
+    justify-self: center;
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+}
+
+.premium p{
+    margin-top: 0px;
+    font-size: 23px;
+    text-align: start;
+font-family: "Playfair Display", serif;
+}
+
+.premium  svg{
+    fill: var(--myRed);
+    width: 180px;
+    height: 180px;
+    opacity: 0.8;
+    justify-self: end;
+}
+
+/* #endregion premuim */
+
+
+
+/* #region newModal */
+.cover{
+    position: absolute;
+    display: none;
+    background: rgba(0,0,0,0.1);
+    backdrop-filter: blur(1px);
+    height: 83%;
+    width: 100%;
+}
+
+
+ .newModal{
+    display: none;
+    background: var(--myBackground);
+    padding-top: 20px;
+  }
+
+  .newModalHeader{
+    padding-top: 30px;
+    text-align: center;
+    color: var(--myRed);
+    font-size: 30px;
+  }
+
+  svg.closeNew{
+    position: absolute;
+    top: 80px;
+    right: 200px;
+    cursor: pointer;
+    fill: var(--myRed);
+  }
+
+  .newModal > form{
+    justify-self: center;
+    padding: 40px;
+    padding-top: 10px;
+    width: 70%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+  }
+
+  .newModal > form > div{
+    display: grid;
+    width: 70%;
+    color: var(--myRed);
+    padding: 20px;
+}
+
+.newModal > form > div > input, .newModal > form > div > select{
+    color: var(--myRed);
+    border-radius: 3px;
+    border: solid 1px var(--myRed);
+    padding: 5px;
+    background:transparent;
+}
+
+.newModal > form > .confirm{
+    position: relative;
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.newModal > form > .confirm > input{
+    width: 50%;
+    cursor: pointer;
+}
+
+.newModal > form > .confirm > div{
+    padding: 5px;
+}
+
+.newModal > form > .confirm > div input{
+  color: var(--myRed);
+  accent-color: var(--myRed);
+}
+
+
+
+.newModal > form > .confirm > input:hover{
+    background: var(--myRed);
+    color: var(--myBackground);
+}
+
+
+
+ 
+
