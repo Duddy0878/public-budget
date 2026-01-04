@@ -6,6 +6,7 @@ import {
     getTotalApi,
     getTotalByMonth,
     getCategorysStatistics,
+    generateCateStatisticsById,
     getNotificationsByType,
     pdfPrint,
     pdfDownload,
@@ -1532,6 +1533,41 @@ function buttonsForWalets(){
 
 
 // #endregion notification
+
+// #region My Goals
+
+async function displayGoals(){
+    var goalsCon = document.getElementById('spendUl')
+
+    for(let i = 0; i< categories.length; i++){
+
+        if(categories[i].name === 'creditCard'){
+            console.log(categories[i].name);
+            continue;
+        }
+        const cateSum = await generateCateStatisticsById(categories[i].id);
+
+        console.log(formatMoney(cateSum));
+
+        if(cateSum == 0.00){
+            continue;
+        }
+
+
+        const li = document.createElement('li');
+        li.innerText = `${capitilizeFirstLetter(categories[i].name)}: ${formatMoney(cateSum)} `
+        goalsCon.appendChild(li);
+    }
+}
+
+displayGoals()
+
+
+// displayGoals()
+
+
+// #endregion My Goals
+
 
 // #region newIncome/expense
 

@@ -66,6 +66,36 @@ router.get('/statistics', async (req, res) => {
   }
 })
 
+router.get('/statistics:id', async (req, res) => {
+  const categoryId = parseInt(req.params.id, 10);
+  if (Number.isNaN(categoryId)) {
+    return res.status(400).json({ error: 'Invalid category id' });
+  }
+
+  try {
+    const [rows] = await db.query(
+      `
+      SELECT COALESCE(SUM(amount), 0) AS total_expense
+        FROM transactions
+        WHERE category_id = ?
+          AND type = 'expense'
+          AND MONTH(date) = MONTH(CURDATE())
+          AND YEAR(date) = YEAR(CURDATE());
+      `,
+      [categoryId]
+    );
+
+    if (rows.length === 0) {
+      return res.status(404).json({ error: 'Category not found' });
+    }
+
+    return res.json(rows[0].total_expense); // plain number
+  } catch (error) {
+    console.error(error.message);
+    return res.status(500).json({ error: 'Internal server error' });
+  }
+});
+
 router.post('/', async (req, res) => {
     
     const { name } = req.body;

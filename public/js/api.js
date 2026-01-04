@@ -95,6 +95,17 @@ export async function getCategorysStatistics(type,period = 'none',wallet_id=''){
         return [];
     }
 }
+
+export async function generateCateStatisticsById(id){
+    try{
+        const res = await fetch(`categories/statistics${id}`);
+        if(!res.ok)throw new Error(`Failed to fetch statistics from categories/statistics/${id}: ${res.status}`);
+        const data = await res.json();
+        return data;
+    }catch(err){
+
+    }
+}
     
 
 export async function getNotificationsByType(type){
