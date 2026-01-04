@@ -38,6 +38,14 @@
         margin: 2px;
         padding: 0px;
         margin-top: 10px;
+        column-count: auto;
+        column-fill: auto;
+        height: 100%;
+      }
+      
+      .menu ul li {
+        break-inside: avoid;
+        height: fit-content;
       }
 
       .menu li{
@@ -957,7 +965,70 @@ font-family: "Playfair Display", serif;
 
 /* #endregion premuim */
 
+/* #region My  Goal */
 
+.goal{
+    /* display: none; */
+    background: var(--myBackground);
+    padding: 25px;
+}
+
+.goalContent{
+    padding: 20px;
+    color: var(--myRed);
+}
+
+.spendHead{
+    display: grid;
+    grid-template-columns: 3fr 1fr 1fr;
+    padding-right: 20px;
+    gap: 20px;
+    align-items: center;
+    text-align: center;
+}
+
+.editGoal, .printReport{
+    text-align: center;
+    border: var(--myRed) 1px solid;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.editGoal:hover, .printReport:hover{
+    background: var(--myRed);
+    color: var(--myBackground);
+}
+
+.spendBottem{
+    margin-top: 100px;
+    display: grid;
+    grid-template-columns: 3fr 1.5fr;
+    gap: 20px;
+    align-items: end;
+    justify-items: start;
+    font-size: 20px;
+}
+
+.spendList ul{
+    list-style: none;
+    columns: 2;
+    column-fill: auto;
+     height: 300px;
+}
+
+.spendSum{
+    font-size: 25px;
+    text-align: center;
+    border-top: var(--myRed) 1px solid;
+}
+
+.spendSum > div{
+    padding: 10px;
+    margin-top: 10px;
+    border-bottom: var(--myRed) 1px solid;
+}
+/* #endregion My Goal */
 
 /* #region newModal */
 .cover{
