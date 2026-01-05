@@ -1537,6 +1537,9 @@ function buttonsForWalets(){
 // #region My Goals
 
 async function displayGoals(){
+    var budget = 9600.00
+    var countSpent = 0
+    var countInvest = 0
     var goalsCon = document.getElementById('spendUl')
 
     for(let i = 0; i< categories.length; i++){
@@ -1547,8 +1550,6 @@ async function displayGoals(){
         }
         const cateSum = await generateCateStatisticsById(categories[i].id);
 
-        console.log(formatMoney(cateSum));
-
         if(cateSum == 0.00){
             continue;
         }
@@ -1557,13 +1558,25 @@ async function displayGoals(){
         const li = document.createElement('li');
         li.innerText = `${capitilizeFirstLetter(categories[i].name)}: ${formatMoney(cateSum)} `
         goalsCon.appendChild(li);
+
+        if(categories[i].name === 'investing' || categories[i].name === 'savings'){
+
+            countInvest += cateSum;
+            continue;
+        }
+
+        countSpent += cateSum;
+
     }
+
+    document.getElementById('monthlyB').innerText = formatMoney(budget)
+    document.getElementById('spentB').innerText = formatMoney(countSpent)
+    document.getElementById('investedB').innerText = formatMoney(countInvest)
+    document.getElementById('leftB').innerText = formatMoney(budget - countSpent)
 }
 
 displayGoals()
 
-
-// displayGoals()
 
 
 // #endregion My Goals
