@@ -154,7 +154,7 @@ displayNow(document.getElementById('notifications'), document.querySelector('.no
 
 displayNow(document.getElementById('statistics'), document.querySelector('.statistics'), 'openNow'); 
 
-displayNow(document.getElementById('goal'), document.querySelector('.premium'), 'openNow'); 
+displayNow(document.getElementById('goal'), document.querySelector('.goal'), 'openNow'); 
 
 displayNow(document.getElementById('maaser'), document.querySelector('.premium'), 'openNow'); 
 
