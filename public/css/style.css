@@ -968,7 +968,7 @@ font-family: "Playfair Display", serif;
 /* #region My  Goal */
 
 .goal{
-    /* display: none; */
+    display: none;
     background: var(--myBackground);
     padding: 25px;
 }
