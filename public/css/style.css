@@ -26,9 +26,15 @@
     overflow: scroll;
     overflow-x: hidden;
     scrollbar-width: none;
+    -ms-overflow-style: none;
     background: var(--myRed);
     box-shadow: 8px 8px 14px #a03d3d;
     }
+    
+    .menu::-webkit-scrollbar{
+        display: none;
+    }
+    
         .allWallets::-webkit-scrollbar{
          display: none;
         } 
@@ -373,6 +379,10 @@ sub{
         overflow: scroll;
         -ms-overflow-style: none;
         scrollbar-width: none;
+    }
+    
+    .tableCon::-webkit-scrollbar{
+        display: none;
     }
 
     .modalEdit{
