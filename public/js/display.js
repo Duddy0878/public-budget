@@ -1569,10 +1569,10 @@ async function displayGoals(){
 
     }
 
-    document.getElementById('monthlyB').innerHTML= formatMoney(budget)
-    document.getElementById('spentB').innerHTML = formatMoney(countSpent)
-    document.getElementById('investedB').innerHTML = formatMoney(countInvest)
-    document.getElementById('leftB').innerHTML = formatMoney(budget - countSpent)
+    document.querySelector('.monthlyB').innerHTML= formatMoney(budget)
+    document.querySelector('.spentB').innerHTML = formatMoney(countSpent)
+    document.querySelector('.investedB').innerHTML = formatMoney(countInvest)
+    document.querySelector('.leftB').innerHTML = formatMoney(budget - countSpent)
 }
 
 displayGoals()
