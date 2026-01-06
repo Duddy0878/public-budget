@@ -1540,6 +1540,7 @@ async function displayGoals(){
     var budget = 9600.00
     var countSpent = 0
     var countInvest = 0
+
     var goalsCon = document.getElementById('spendUl')
 
     for(let i = 0; i< categories.length; i++){
@@ -1562,10 +1563,12 @@ async function displayGoals(){
         if(categories[i].name === 'investing' || categories[i].name === 'savings'){
 
             countInvest += cateSum;
+            console.log(countInvest);
             continue;
         }
 
         countSpent += cateSum;
+        console.log(countSpent);
 
     }
 
