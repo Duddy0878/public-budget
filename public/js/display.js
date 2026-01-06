@@ -1537,6 +1537,12 @@ function buttonsForWalets(){
 // #region My Goals
 
 async function displayGoals(){
+
+    var today = dayjs();
+    var left = dayjs().endOf('month').diff(today, 'day') + 1;
+
+    document.querySelector('#daysLeft').innerHTML = left + ' Days Left This Month';
+    
     var budget = 9600.00
     var countSpent = 0
     var countInvest = 0

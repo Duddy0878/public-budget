@@ -997,6 +997,11 @@ font-family: "Playfair Display", serif;
     text-align: center;
 }
 
+#days-left{
+    font-size: 17px;
+    opacity: 0.8;
+}
+
 .editGoal, .printReport{
     text-align: center;
     border: var(--myRed) 1px solid;
