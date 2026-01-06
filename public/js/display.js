@@ -1562,12 +1562,12 @@ async function displayGoals(){
 
         if(categories[i].name === 'investing' || categories[i].name === 'savings'){
 
-            countInvest += cateSum;
+            countInvest += JSON.parse(cateSum);
             console.log(countInvest);
             continue;
         }
 
-        countSpent += cateSum;
+        countSpent += JSON.parse(cateSum);
         console.log(countSpent);
 
     }
