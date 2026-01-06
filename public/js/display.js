@@ -1571,7 +1571,7 @@ async function displayGoals(){
 
     document.querySelector('.monthlyB').innerHTML= formatMoney(budget)
     document.querySelector('.spentB').innerHTML = formatMoney(countSpent)
-    document.querySelector('.investedB').innerHTML = formatMoney(countInvest)
+    document.querySelector('.savedB').innerHTML = formatMoney(countInvest)
     document.querySelector('.leftB').innerHTML = formatMoney(budget - countSpent)
 }
 
